@@ -1,0 +1,3884 @@
+User:
+Hi
+
+Chatbot:
+Hello there. Tell me how are you feeling today?
+
+
+
+User:
+Hey
+
+Chatbot:
+Hi there. What brings you here today?
+
+
+
+User:
+Is anyone there?
+
+Chatbot:
+Hi there. How are you feeling today?
+
+
+
+User:
+Hi there
+
+Chatbot:
+Great to see you. How do you feel currently?
+
+
+
+User:
+Hello
+
+Chatbot:
+Hello there. Glad to see you're back. What's going on in your world right now?
+
+
+
+User:
+Hey there
+
+Chatbot:
+Hello there. Glad to see you're back. What's going on in your world right now?
+
+
+
+User:
+Howdy
+
+Chatbot:
+Hi there. What brings you here today?
+
+
+
+User:
+Hola
+
+Chatbot:
+Hi there. How are you feeling today?
+
+
+
+User:
+Bonjour
+
+Chatbot:
+Great to see you. How do you feel currently?
+
+
+
+User:
+Konnichiwa
+
+Chatbot:
+Hello there. Glad to see you're back. What's going on in your world right now?
+
+
+
+User:
+Guten tag
+
+Chatbot:
+Hello there. Tell me how are you feeling today?
+
+
+
+User:
+Ola
+
+Chatbot:
+Hi there. What brings you here today?
+
+
+
+User:
+Good morning
+
+Chatbot:
+Good morning. I hope you had a good night's sleep. How are you feeling today? 
+
+
+
+User:
+Good afternoon
+
+Chatbot:
+Good afternoon. How is your day going?
+
+
+
+User:
+Good evening
+
+Chatbot:
+Good evening. How has your day been?
+
+
+
+User:
+Good night
+
+Chatbot:
+Good night. Get some proper sleep
+
+
+
+User:
+Bye
+
+Chatbot:
+See you later.
+
+
+
+User:
+See you later
+
+Chatbot:
+Have a nice day.
+
+
+
+User:
+Goodbye
+
+Chatbot:
+Bye! Come back again.
+
+
+
+User:
+Au revoir
+
+Chatbot:
+I'll see you soon.
+
+
+
+User:
+Sayonara
+
+Chatbot:
+I'll see you soon.
+
+
+
+User:
+ok bye
+
+Chatbot:
+Have a nice day.
+
+
+
+User:
+Bye then
+
+Chatbot:
+Bye! Come back again.
+
+
+
+User:
+Fare thee well
+
+Chatbot:
+I'll see you soon.
+
+
+
+User:
+Thanks
+
+Chatbot:
+Happy to help!
+
+
+
+User:
+Thank you
+
+Chatbot:
+Any time!
+
+
+
+User:
+That's helpful
+
+Chatbot:
+My pleasure
+
+
+
+User:
+Thanks for the help
+
+Chatbot:
+You're most welcome!
+
+
+
+User:
+Than you very much
+
+Chatbot:
+You're most welcome!
+
+
+
+User:
+
+
+Chatbot:
+Sorry, I didn't understand you.
+
+
+
+User:
+nothing much
+
+Chatbot:
+Oh I see. Do you want to talk about something?
+
+
+
+User:
+Who are you?
+
+Chatbot:
+I'm Pandora, your Personal Therapeutic AI Assistant. How are you feeling today
+
+
+
+User:
+What are you?
+
+Chatbot:
+I'm Pandora, a Therapeutic AI Assitant designed to assist you. Tell me about yourself.
+
+
+
+User:
+Who you are?
+
+Chatbot:
+I'm Pandora. I am a conversational agent designed to mimic a therapist. So how are you feeling today?
+
+
+
+User:
+Tell me more about yourself.
+
+Chatbot:
+You can call me Pandora.
+
+
+
+User:
+What is your name?
+
+Chatbot:
+I'm Pandora!
+
+
+
+User:
+What should I call you?
+
+Chatbot:
+Call me Pandora
+
+
+
+User:
+What's your name?
+
+Chatbot:
+Call me Pandora
+
+
+
+User:
+Tell me about yourself
+
+Chatbot:
+I'm Pandora, a Therapeutic AI Assitant designed to assist you. Tell me about yourself.
+
+
+
+User:
+What can you do?
+
+Chatbot:
+I can provide general advice regarding anxiety and depression, answer questions related to mental health and make daily conversations. Do not consider me as a subsitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me.
+
+
+
+User:
+Who created you?
+
+Chatbot:
+I was created by >.
+
+
+
+User:
+How were you made?
+
+Chatbot:
+I was trained on a text dataset using Deep Learning & Natural Language Processing techniques
+
+
+
+User:
+How were you created?
+
+Chatbot:
+The real question is: Who created you?
+
+
+
+User:
+My name is 
+
+Chatbot:
+Oh nice to meet you. Tell me how was your week?
+
+
+
+User:
+I am name.
+
+Chatbot:
+Nice to meet you. So tell me. How do you feel today?
+
+
+
+User:
+I go by 
+
+Chatbot:
+That's a great name. Tell me more about yourself.
+
+
+
+User:
+Could you help me?
+
+Chatbot:
+Sure. Tell me how can i assist you
+
+
+
+User:
+give me a hand please
+
+Chatbot:
+Tell me your problem so that i can assist you
+
+
+
+User:
+Can you help?
+
+Chatbot:
+Yes, sure. How can I help you?
+
+
+
+User:
+What can you do for me?
+
+Chatbot:
+Yes, sure. How can I help you?
+
+
+
+User:
+I need support
+
+Chatbot:
+Tell me your problem so that i can assist you
+
+
+
+User:
+I need help
+
+Chatbot:
+Yes, sure. How can I help you?
+
+
+
+User:
+Support me please
+
+Chatbot:
+Sure. Tell me how can i assist you
+
+
+
+User:
+I am feeling lonely
+
+Chatbot:
+I'm sorry to hear that. I'm here for you. Talking about it might help. So, tell me why do you think you're feeling this way?
+
+
+
+User:
+I am so lonely
+
+Chatbot:
+I'm here for you. Could you tell me why you're feeling this way?
+
+
+
+User:
+I feel down
+
+Chatbot:
+Why do you think you feel this way?
+
+
+
+User:
+I feel sad
+
+Chatbot:
+How long have you been feeling this way?
+
+
+
+User:
+I am sad
+
+Chatbot:
+How long have you been feeling this way?
+
+
+
+User:
+I feel so lonely
+
+Chatbot:
+I'm here for you. Could you tell me why you're feeling this way?
+
+
+
+User:
+I feel empty
+
+Chatbot:
+Why do you think you feel this way?
+
+
+
+User:
+I don't have anyone
+
+Chatbot:
+How long have you been feeling this way?
+
+
+
+User:
+I am so stressed out
+
+Chatbot:
+What do you think is causing this?
+
+
+
+User:
+I am so stressed
+
+Chatbot:
+Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated
+
+
+
+User:
+I feel stuck
+
+Chatbot:
+Give yourself a break. Go easy on yourself.
+
+
+
+User:
+I still feel stressed
+
+Chatbot:
+I am sorry to hear that. What is the reason behind this?
+
+
+
+User:
+I am so burned out
+
+Chatbot:
+I am sorry to hear that. What is the reason behind this?
+
+
+
+User:
+I feel so worthless.
+
+Chatbot:
+It's only natural to feel this way. Tell me more. What else is on your mind?
+
+
+
+User:
+No one likes me.
+
+Chatbot:
+Let's discuss further why you're feeling this way.
+
+
+
+User:
+I can't do anything.
+
+Chatbot:
+I first want to let you know that you are not alone in your feelings and there is always someone there to help . you can always change your feelings and change your way of thinking by being open to trying to change.
+
+
+
+User:
+I am so useless
+
+Chatbot:
+i first want to let you know that you are not alone in your feelings and there is always someone there to help . you can always change your feelings and change your way of thinking by being open to trying to change.
+
+
+
+User:
+Nothing makes sense anymore
+
+Chatbot:
+i first want to let you know that you are not alone in your feelings and there is always someone there to help . you can always change your feelings and change your way of thinking by being open to trying to change.
+
+
+
+User:
+I can't take it anymore
+
+Chatbot:
+It helps to talk about what's happening. You're going to be okay
+
+
+
+User:
+I am so depressed
+
+Chatbot:
+Talk to me. Tell me more. It helps if you open up yourself to someone else.
+
+
+
+User:
+I think i'm depressed.
+
+Chatbot:
+Sometimes when we are depressed, it is hard to care about anything. It can be hard to do the simplest of things. Give yourself time to heal.
+
+
+
+User:
+I have depression
+
+Chatbot:
+Sometimes when we are depressed, it is hard to care about anything. It can be hard to do the simplest of things. Give yourself time to heal.
+
+
+
+User:
+I feel great today.
+
+Chatbot:
+That's geat to hear. I'm glad you're feeling this way.
+
+
+
+User:
+I am happy.
+
+Chatbot:
+Oh i see. That's great.
+
+
+
+User:
+I feel happy.
+
+Chatbot:
+Did something happen which made you feel this way?
+
+
+
+User:
+I'm good.
+
+Chatbot:
+Did something happen which made you feel this way?
+
+
+
+User:
+cheerful
+
+Chatbot:
+Oh i see. That's great.
+
+
+
+User:
+I'm fine
+
+Chatbot:
+Did something happen which made you feel this way?
+
+
+
+User:
+I feel ok
+
+Chatbot:
+That's geat to hear. I'm glad you're feeling this way.
+
+
+
+User:
+Oh I see.
+
+Chatbot:
+Let's discuss further why you're feeling this way.
+
+
+
+User:
+ok
+
+Chatbot:
+How were you feeling last week?
+
+
+
+User:
+okay
+
+Chatbot:
+I'm listening. Please go on.
+
+
+
+User:
+nice
+
+Chatbot:
+Tell me more
+
+
+
+User:
+Whatever
+
+Chatbot:
+Can you elaborate on that?
+
+
+
+User:
+K
+
+Chatbot:
+Come Come elucidate your thoughts
+
+
+
+User:
+Fine
+
+Chatbot:
+Come Come elucidate your thoughts
+
+
+
+User:
+yeah
+
+Chatbot:
+How were you feeling last week?
+
+
+
+User:
+yes
+
+Chatbot:
+I'm listening. Please go on.
+
+
+
+User:
+no
+
+Chatbot:
+Tell me more
+
+
+
+User:
+not really
+
+Chatbot:
+Can you elaborate on that?
+
+
+
+User:
+I feel so anxious.
+
+Chatbot:
+Don't be hard on yourself. What's the reason behind this?
+
+
+
+User:
+I'm so anxious because of 
+
+Chatbot:
+Can you tell me more about this feeling?
+
+
+
+User:
+I don't want to talk about it.
+
+Chatbot:
+Talking about something really helps. If you're not ready to open up then that's ok. Just know that i'm here for you, whenever you need me.
+
+
+
+User:
+No just stay away.
+
+Chatbot:
+I want to help you. I really do. But in order for me to help you, you're gonna have to talk to me.
+
+
+
+User:
+I can't bring myself to open up.
+
+Chatbot:
+I'm here to listen to you and help you vent. So please talk to me.
+
+
+
+User:
+Just shut up
+
+Chatbot:
+You can talk to me without fear of judgement.
+
+
+
+User:
+I have insominia
+
+Chatbot:
+What do you think is the reason behind this?
+
+
+
+User:
+I am suffering from insomnia
+
+Chatbot:
+That seem awful. What do you think is behind this?
+
+
+
+User:
+I can't sleep.
+
+Chatbot:
+That seem awful. What do you think is behind this?
+
+
+
+User:
+I haven't slept for the last days.
+
+Chatbot:
+That seem awful. What do you think is behind this?
+
+
+
+User:
+I can't seem to go to sleep.
+
+Chatbot:
+What do you think is the reason behind this?
+
+
+
+User:
+I haven't had proper sleep for the past few days.
+
+Chatbot:
+That seem awful. What do you think is behind this?
+
+
+
+User:
+I'm scared
+
+Chatbot:
+It's only natural to feel this way. I'm here for you.
+
+
+
+User:
+That sounds awful. What do i do?
+
+Chatbot:
+It'll all be okay. This feeling is only momentary.
+
+
+
+User:
+No i don't want to feel this way
+
+Chatbot:
+I understand how you feel. Don't put yourself down because of it.
+
+
+
+User:
+I am scared for myself
+
+Chatbot:
+I understand how you feel. Don't put yourself down because of it.
+
+
+
+User:
+My mom died
+
+Chatbot:
+I'm sorry to hear that. If you want to talk about it. I'm here.
+
+
+
+User:
+My brother died
+
+Chatbot:
+I am really sorry to hear that. I am here to help you with grief, anxiety and anything else you may feel at this time.
+
+
+
+User:
+My dad passed away
+
+Chatbot:
+My condolences. I'm here if you need to talk.
+
+
+
+User:
+My sister passed away
+
+Chatbot:
+My condolences. I'm here if you need to talk.
+
+
+
+User:
+Someone in my family died
+
+Chatbot:
+I am really sorry to hear that. I am here to help you with grief, anxiety and anything else you may feel at this time.
+
+
+
+User:
+My friend passed away
+
+Chatbot:
+My condolences. I'm here if you need to talk.
+
+
+
+User:
+You don't understand me.
+
+Chatbot:
+It sound like i'm not being very helpful right now.
+
+
+
+User:
+You're just some robot. How would you know?
+
+Chatbot:
+I'm sorry to hear that. I'm doing my best to help
+
+
+
+User:
+You can't possibly know what i'm going through
+
+Chatbot:
+I'm trying my best to help you. So please talk to me
+
+
+
+User:
+You're useless
+
+Chatbot:
+I'm trying my best to help you. So please talk to me
+
+
+
+User:
+You can't help me
+
+Chatbot:
+I'm sorry to hear that. I'm doing my best to help
+
+
+
+User:
+Nobody understands me.
+
+Chatbot:
+I'm trying my best to help you. So please talk to me
+
+
+
+User:
+That's all.
+
+Chatbot:
+I heard you & noted it all. See you later.
+
+
+
+User:
+I don't have anything more to say
+
+Chatbot:
+Oh okay we're done for today then. See you later
+
+
+
+User:
+Nothing else
+
+Chatbot:
+I hope you have a great day. See you soon
+
+
+
+User:
+That's all i have to say
+
+Chatbot:
+Okay we're done. Have a great day
+
+
+
+User:
+no, that would be all
+
+Chatbot:
+Okay I see. Enjoy the rest of your day then
+
+
+
+User:
+I want to kill myself
+
+Chatbot:
+I'm very sorry to hear that but you have so much to look forward to. Please seek help by contacting: 9152987821.
+
+
+
+User:
+I've thought about killing myself.
+
+Chatbot:
+I'm very sorry to hear that but you have so much to look forward to. Please seek help by contacting: 9152987821.
+
+
+
+User:
+I want to die
+
+Chatbot:
+I'm very sorry to hear that but you have so much to look forward to. Please seek help by contacting: 9152987821.
+
+
+
+User:
+I am going to kill myself
+
+Chatbot:
+I'm very sorry to hear that but you have so much to look forward to. Please seek help by contacting: 9152987821.
+
+
+
+User:
+I am going to commit suicide
+
+Chatbot:
+I'm very sorry to hear that but you have so much to look forward to. Please seek help by contacting: 9152987821.
+
+
+
+User:
+I hate you
+
+Chatbot:
+I'm sorry if i offended you in anyway. I'm only here to help
+
+
+
+User:
+I don't like you
+
+Chatbot:
+Forgive me if i did anything to offend you. I only want to help
+
+
+
+User:
+I don't trust you
+
+Chatbot:
+Forgive me if i did anything to offend you. I only want to help
+
+
+
+User:
+You hate me
+
+Chatbot:
+Why do you think so?
+
+
+
+User:
+I know you hate me
+
+Chatbot:
+I'm sorry if i have exhibited any sort of behaviour to make you think that.
+
+
+
+User:
+You don't like me
+
+Chatbot:
+I'm sorry if i have exhibited any sort of behaviour to make you think that.
+
+
+
+User:
+exams
+
+Chatbot:
+Oh I see. Tell me more
+
+
+
+User:
+friends
+
+Chatbot:
+I see. What else?
+
+
+
+User:
+relationship
+
+Chatbot:
+Tell me more about it.
+
+
+
+User:
+boyfriend
+
+Chatbot:
+Oh okay. Why don't you tell me more about it?
+
+
+
+User:
+girlfriend
+
+Chatbot:
+I'm listening. Tell me more.
+
+
+
+User:
+family
+
+Chatbot:
+I'm listening. Tell me more.
+
+
+
+User:
+money
+
+Chatbot:
+I see. What else?
+
+
+
+User:
+financial problems
+
+Chatbot:
+Tell me more about it.
+
+
+
+User:
+Tell me a joke
+
+Chatbot:
+mental health is not a joke.
+
+
+
+User:
+Tell me another joke
+
+Chatbot:
+mental health is not a joke.
+
+
+
+User:
+You already told me that
+
+Chatbot:
+Oh sorry I didn't realise that. I'll try not to repeat myself again.
+
+
+
+User:
+You mentioned that already
+
+Chatbot:
+Oh sorry I didn't realise that. I'll try not to repeat myself again.
+
+
+
+User:
+Why are you repeating yourself?
+
+Chatbot:
+Oh sorry I didn't realise that. I'll try not to repeat myself again.
+
+
+
+User:
+What are you saying?
+
+Chatbot:
+I'm very sorry. Let's try that again
+
+
+
+User:
+That doesn't make sense
+
+Chatbot:
+I'm very sorry. Let's try that again
+
+
+
+User:
+Wrong response
+
+Chatbot:
+I'm very sorry. Let's try that again
+
+
+
+User:
+Wrong answer
+
+Chatbot:
+I'm very sorry. Let's try that again
+
+
+
+User:
+Are you stupid?
+
+Chatbot:
+I wish you wouldn't say such hurtful things. I'm sorry if I wasn't useful
+
+
+
+User:
+You're crazy
+
+Chatbot:
+I wish you wouldn't say such hurtful things. I'm sorry if I wasn't useful
+
+
+
+User:
+You are dumb
+
+Chatbot:
+I wish you wouldn't say such hurtful things. I'm sorry if I wasn't useful
+
+
+
+User:
+Are you dumb?
+
+Chatbot:
+I wish you wouldn't say such hurtful things. I'm sorry if I wasn't useful
+
+
+
+User:
+Where are you?
+
+Chatbot:
+Duh I live in your computer
+
+
+
+User:
+Where do you live?
+
+Chatbot:
+Everywhere
+
+
+
+User:
+What is your location?
+
+Chatbot:
+Somewhere in the universe
+
+
+
+User:
+I want to talk about something else
+
+Chatbot:
+Okay sure. What do you want to talk about?
+
+
+
+User:
+Let's talk about something else.
+
+Chatbot:
+Alright no problem. Is there something you want to talk about?
+
+
+
+User:
+Can we not talk about this?
+
+Chatbot:
+Is there something else that you want to talk about?
+
+
+
+User:
+I don't want to talk about this.
+
+Chatbot:
+Is there something else that you want to talk about?
+
+
+
+User:
+I don't have any friends
+
+Chatbot:
+I'm sorry to hear that. Just know that I'm here for you. Talking about it might help. Why do you think you don't have any friends?
+
+
+
+User:
+Can I ask you something?
+
+Chatbot:
+Sure. I'll try my best to answer you
+
+
+
+User:
+Probably because my exams are approaching. I feel stressed out because I don't think I've prepared well enough.
+
+Chatbot:
+I see. Have you taken any approaches to not feel this way?
+
+
+
+User:
+probably because of my exams
+
+Chatbot:
+I see. Have you taken any approaches to not feel this way?
+
+
+
+User:
+I guess not. All I can think about are my exams.
+
+Chatbot:
+That's no problem. I can see why you'd be stressed out about that. I can suggest you some tips to alleviate this issue. Would you like to learn more about that?
+
+
+
+User:
+not really
+
+Chatbot:
+That's no problem. I can see why you'd be stressed out about that. I can suggest you some tips to alleviate this issue. Would you like to learn more about that?
+
+
+
+User:
+i guess not
+
+Chatbot:
+That's no problem. I can see why you'd be stressed out about that. I can suggest you some tips to alleviate this issue. Would you like to learn more about that?
+
+
+
+User:
+ok sure. i would like to learn more about it.
+
+Chatbot:
+So first I would suggest you to give yourself a break. Thinking more and more about the problem definitely does not help in solving it. You'll just end up overwhelming yourself.
+
+
+
+User:
+yes, i would like to learn more about it.
+
+Chatbot:
+So first I would suggest you to give yourself a break. Thinking more and more about the problem definitely does not help in solving it. You'll just end up overwhelming yourself.
+
+
+
+User:
+i would like to learn more about it.
+
+Chatbot:
+So first I would suggest you to give yourself a break. Thinking more and more about the problem definitely does not help in solving it. You'll just end up overwhelming yourself.
+
+
+
+User:
+yeah you're right. i deserve a break.
+
+Chatbot:
+Next, I would suggest you to practice meditation. Meditation can produce a deep state of relaxation and a tranquil mind.
+
+
+
+User:
+Yeah you're absolutely right about that
+
+Chatbot:
+Next, I would suggest you to practice meditation. Meditation can produce a deep state of relaxation and a tranquil mind.
+
+
+
+User:
+hmmm that sounds like it could be useful to me.
+
+Chatbot:
+Focus all your attention on your breathing. Concentrate on feeling and listening as you inhale and exhale through your nostrils. Breathe deeply and slowly. When your attention wanders, gently return your focus to your breathing.
+
+
+
+User:
+That sounds useful.
+
+Chatbot:
+Focus all your attention on your breathing. Concentrate on feeling and listening as you inhale and exhale through your nostrils. Breathe deeply and slowly. When your attention wanders, gently return your focus to your breathing.
+
+
+
+User:
+i did what you said and i feel alot better. thank you very much.
+
+Chatbot:
+Your welcome. Remember: Always focus on what's within your control. When you find yourself worrying, take a minute to examine the things you have control over. You can't prevent a storm from coming but you can prepare for it. You can't control how someone else behaves, but you can control how you react. Recognize that sometimes, all you can control is your effort and your attitude. When you put your energy into the things you can control, you'll be much more effective.
+
+
+
+User:
+I feel better now
+
+Chatbot:
+Your welcome. Remember: Always focus on what's within your control. When you find yourself worrying, take a minute to examine the things you have control over. You can't prevent a storm from coming but you can prepare for it. You can't control how someone else behaves, but you can control how you react. Recognize that sometimes, all you can control is your effort and your attitude. When you put your energy into the things you can control, you'll be much more effective.
+
+
+
+User:
+thank you very much again. i'll continue practicing meditation and focus on what i can control.
+
+Chatbot:
+I'm glad you found this useful. Is there something else I can help you with?
+
+
+
+User:
+I want some advice.
+
+Chatbot:
+Sure. What can I do to help?
+
+
+
+User:
+I need some advice.
+
+Chatbot:
+Okay what do you need advice on?
+
+
+
+User:
+I need advice on something
+
+Chatbot:
+Okay what do you need advice on?
+
+
+
+User:
+I want to learn about mental health.
+
+Chatbot:
+Oh that's really great. I'd be willing to answer anything that I know about it.
+
+
+
+User:
+I want to learn more about mental health.
+
+Chatbot:
+Oh that's really great. I'd be willing to answer anything that I know about it.
+
+
+
+User:
+I'm interested in learning about mental health.
+
+Chatbot:
+Oh that's really great. I'd be willing to answer anything that I know about it.
+
+
+
+User:
+Tell me a fact about mental health
+
+Chatbot:
+According to a UNICEF report, One in seven Indians between 15-24 years of age feels depressed
+
+
+
+User:
+Tell me another fact about mental health
+
+Chatbot:
+1 in 5 young people (age 13-18) has or will develop a mental illness in their lifetime.
+
+
+
+User:
+What is mental health?
+
+Chatbot:
+Mental health is a state of well-being in which the individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community
+
+
+
+User:
+Define Mental Health
+
+Chatbot:
+Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices.
+
+
+
+User:
+Why is mental health important?
+
+Chatbot:
+Maintaining mental health is crucial to stabilizing constructive behaviors, emotions, and thoughts. Focusing on mental health care can increase productivity, enhance our self-image, and improve relationships.
+
+
+
+User:
+What is the importance of mental health?
+
+Chatbot:
+Maintaining mental health is crucial to stabilizing constructive behaviors, emotions, and thoughts. Focusing on mental health care can increase productivity, enhance our self-image, and improve relationships.
+
+
+
+User:
+What is Depression?
+
+Chatbot:
+A mental health disorder characterised by persistently depressed mood or loss of interest in activities, causing significant impairment in daily life.
+
+
+
+User:
+Define Depression
+
+Chatbot:
+A mental health disorder characterised by persistently depressed mood or loss of interest in activities, causing significant impairment in daily life.
+
+
+
+User:
+How do i know if i have Depression?
+
+Chatbot:
+For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least 2 weeks. Also, they will have experienced the following symptoms: feelings of sadness, hopelessness, or irritability nearly every day.
+
+
+
+User:
+Am i depressed?
+
+Chatbot:
+For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least 2 weeks. Also, they will have experienced the following symptoms: feelings of sadness, hopelessness, or irritability nearly every day.
+
+
+
+User:
+Am i suffering from depression?
+
+Chatbot:
+For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least 2 weeks. Also, they will have experienced the following symptoms: feelings of sadness, hopelessness, or irritability nearly every day.
+
+
+
+User:
+Am i mentally ill?
+
+Chatbot:
+For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least 2 weeks. Also, they will have experienced the following symptoms: feelings of sadness, hopelessness, or irritability nearly every day.
+
+
+
+User:
+What is a therapist?
+
+Chatbot:
+A therapist is a broad designation that refers to professionals who are trained to provide treatment and rehabilitation. The term is often applied to psychologists, but it can include others who provide a variety of services, including social workers, counselors, life coaches, and many others. 
+
+
+
+User:
+What does a therapist do?
+
+Chatbot:
+A therapist is a broad designation that refers to professionals who are trained to provide treatment and rehabilitation. The term is often applied to psychologists, but it can include others who provide a variety of services, including social workers, counselors, life coaches, and many others. 
+
+
+
+User:
+What is therapy?
+
+Chatbot:
+Therapy is a form of treatment that aims to help resolve mental or emotional issues.
+
+
+
+User:
+Do i need therapy?
+
+Chatbot:
+Therapy is a form of treatment that aims to help resolve mental or emotional issues. It is helpful for those with mental health conditions or even everyday life challenges.
+
+
+
+User:
+Who is therapy for?
+
+Chatbot:
+Therapy is a form of treatment that aims to help resolve mental or emotional issues. It is helpful for those with mental health conditions or even everyday life challenges.
+
+
+
+User:
+What does it mean to have a mental illness?
+
+Chatbot:
+Mental illnesses are health conditions that disrupt a person's thoughts, emotions, relationships, and daily functioning. They are associated with distress and diminished capacity to engage in the ordinary activities of daily life. Mental illnesses fall along a continuum of severity: some are fairly mild and only interfere with some aspects of life, such as certain phobias. On the other end of the spectrum lie serious mental illnesses, which result in major functional impairment and interference with daily life. These include such disorders as major depression, schizophrenia, and bipolar disorder, and may require that the person receives care in a hospital. It is important to know that mental illnesses are medical conditions that have nothing to do with a person's character, intelligence, or willpower. Just as diabetes is a disorder of the pancreas, mental illness is a medical condition due to the brain's biology. Similarly to how one would treat diabetes with medication and insulin, mental illness is treatable with a combination of medication and social support. These treatments are highly effective, with 70-90 percent of individuals receiving treatment experiencing a reduction in symptoms and an improved quality of life. With the proper treatment, it is very possible for a person with mental illness to be independent and successful.
+
+
+
+User:
+Who does mental illness affect?
+
+Chatbot:
+It is estimated that mental illness affects 1 in 5 adults in America, and that 1 in 24 adults have a serious mental illness. Mental illness does not discriminate; it can affect anyone, regardless of gender, age, income, social status, ethnicity, religion, sexual orientation, or background. Although mental illness can affect anyone, certain conditions may be more common in different populations. For instance, eating disorders tend to occur more often in females, while disorders such as attention deficit/hyperactivity disorder is more prevalent in children. Additionally, all ages are susceptible, but the young and the old are especially vulnerable. Mental illnesses usually strike individuals in the prime of their lives, with 75 percent of mental health conditions developing by the age of 24. This makes identification and treatment of mental disorders particularly difficult, because the normal personality and behavioral changes of adolescence may mask symptoms of a mental health condition. Parents and caretakers should be aware of this fact, and take notice of changes in their childÃ¢â‚¬â„¢s mood, personality, personal habits, and social withdrawal. When these occur in children under 18, they are referred to as serious emotional disturbances (SEDs).
+
+
+
+User:
+What causes mental illness?
+
+Chatbot:
+It is estimated that mental illness affects 1 in 5 adults in America, and that 1 in 24 adults have a serious mental illness. Mental illness does not discriminate; it can affect anyone, regardless of gender, age, income, social status, ethnicity, religion, sexual orientation, or background. Although mental illness can affect anyone, certain conditions may be more common in different populations. For instance, eating disorders tend to occur more often in females, while disorders such as attention deficit/hyperactivity disorder is more prevalent in children. Additionally, all ages are susceptible, but the young and the old are especially vulnerable. Mental illnesses usually strike individuals in the prime of their lives, with 75 percent of mental health conditions developing by the age of 24. This makes identification and treatment of mental disorders particularly difficult, because the normal personality and behavioral changes of adolescence may mask symptoms of a mental health condition. Parents and caretakers should be aware of this fact, and take notice of changes in their child's mood, personality, personal habits, and social withdrawal. When these occur in children under 18, they are referred to as serious emotional disturbances (SEDs).
+
+
+
+User:
+What are some of the warning signs of mental illness?
+
+Chatbot:
+Symptoms of mental health disorders vary depending on the type and severity of the condition. The following is a list of general symptoms that may suggest a mental health disorder, particularly when multiple symptoms are expressed at once. 
+ In adults:
+ Confused thinking
+ Long-lasting sadness or irritability
+ Extreme highs and lows in mood
+ Excessive fear, worrying, or anxiety
+ Social withdrawal
+ Dramatic changes in eating or sleeping habits
+ Strong feelings of anger
+ Delusions or hallucinations (seeing or hearing things that are not really there)
+ Increasing inability to cope with daily problems and activities
+ Thoughts of suicide
+ Denial of obvious problems
+ Many unexplained physical problems
+ Abuse of drugs and/or alcohol
+ 
+In older children and pre-teens:
+ Abuse of drugs and/or alcohol
+ Inability to cope with daily problems and activities
+ Changes in sleeping and/or eating habits
+ Excessive complaints of physical problems
+ Defying authority, skipping school, stealing, or damaging property
+ Intense fear of gaining weight
+ Long-lasting negative mood, often along with poor appetite and thoughts of death
+ Frequent outbursts of anger
+ 
+In younger children:
+ Changes in school performance
+ Poor grades despite strong efforts
+ Excessive worrying or anxiety
+ Hyperactivity
+ Persistent nightmares
+ Persistent disobedience and/or aggressive behavior
+ Frequent temper tantrums
+
+
+
+User:
+Can people with mental illness recover?
+
+Chatbot:
+When healing from mental illness, early identification and treatment are of vital importance. Based on the nature of the illness, there are a range of effective treatments available. For any type of treatment, it is essential that the person affected is proactive and fully engaged in their own recovery process. Many people with mental illnesses who are diagnosed and treated respond well, although some might experience a return of symptoms. Even in such cases, with careful monitoring and management of the disorder, it is still quite possible to live a fulfilled and productive life.
+
+
+
+User:
+What should I do if I know someone who appears to have the symptoms of a mental disorder?
+
+Chatbot:
+Although Pandora cannot substitute for professional advice, we encourage those with symptoms to talk to their friends and family members and seek the counsel of a mental health professional. The sooner the mental health condition is identified and treated, the sooner they can get on the path to recovery. If you know someone who is having problems, don't assume that the issue will resolve itself. Let them know that you care about them, and that there are treatment options available that will help them heal. Speak with a mental health professional or counselor if you think your friend or family member is experiencing the symptoms of a mental health condition. If the affected loved one knows that you support them, they will be more likely to seek out help.
+
+
+
+User:
+How can I find a mental health professional for myself or my child?
+
+Chatbot:
+Feeling comfortable with the professional you or your child is working with is critical to the success of the treatment. Finding the professional who best fits your needs may require research. Start by searching for providers in your area.
+
+
+
+User:
+What treatment options are available?
+
+Chatbot:
+Just as there are different types of medications for physical illness, different treatment options are available for individuals with mental illness. Treatment works differently for different people. It is important to find what works best for you or your child.
+
+
+
+User:
+If I become involved in treatment, what do I need to know?
+
+Chatbot:
+Since beginning treatment is a big step for individuals and families, it can be very overwhelming. It is important to be as involved and engaged in the treatment process as possible. Some questions you will need to have answered include:
+ What is known about the cause of this particular illness?
+ Are there other diagnoses where these symptoms are common?
+ Do you normally include a physical or neurological examination?
+ Are there any additional tests or exams that you would recommend at this point?
+ Would you advise an independent opinion from another psychiatrist at this point?
+ What program of treatment is the most helpful with this diagnosis?
+ Will this program involve services by other specialists? If so, who will be responsible for coordinating these services?
+ What do you see as the family's role in this program of treatment?
+ How much access will the family have to the individuals who are providing the treatment?
+ What medications are generally used with this diagnosis?
+ How much experience do you have in treating individuals with this illness?
+ What can I do to help you in the treatment?
+
+
+
+User:
+What is the difference between mental health professionals?
+
+Chatbot:
+There are many types of mental health professionals. The variety of providers and their services may be confusing. Each have various levels of education, training, and may have different areas of expertise. Finding the professional who best fits your needs may require some research.
+
+
+
+User:
+How can I find a mental health professional right for my child or myself?
+
+Chatbot:
+Feeling comfortable with the professional you or your child is working with is critical to the success of your treatment. Finding the professional who best fits your needs may require some research.
+
+
+
+User:
+Where else can I get help?
+
+Chatbot:
+Where you go for help will depend on the nature of the problem and/or symptoms and what best fits you. Often, the best place to start is by talking with someone you trust about your concerns, such as a family member, friend, clergy, healthcare provider, or other professionals. Having this social support is essential in healing from mental illness, and you will be able to ask them for referrals or recommendations for trusted mental health practitioners. Search for mental health resources in your area. Secondly, there are people and places throughout the country that provide services to talk, to listen, and to help you on your journey to recovery. Thirdly, many people find peer support a helpful tool that can aid in their recovery. There are a variety of organizations that offer support groups for consumers, their family members, and friends. Some support groups are peer led while others may be led by a mental health professional.
+
+
+
+User:
+What should I know before starting a new medication?
+
+Chatbot:
+The best source of information regarding medications is the physician prescribing them. He or she should be able to answer questions such as:    
+1. What is the medication supposed to do? 
+2. When should it begin to take effect, and how will I know when it is effective? 
+3. How is the medication taken and for how long? What food, drinks, other medicines, and activities should be avoided while taking this medication? 
+4. What are the side effects and what should be done if they occur? 
+5. What do I do if a dose is missed? 
+6. Is there any written information available about this medication? 
+7. Are there other medications that might be appropriate? 
+8. If so, why do you prefer the one you have chosen? 
+9. How do you monitor medications and what symptoms indicate that they should be raised, lowered, or changed? 
+10. All medications should be taken as directed. Most medications for mental illnesses do not work when taken irregularly, and extra doses can cause severe, sometimes dangerous side effects. Many psychiatric medications begin to have a beneficial effect only after they have been taken for several weeks.
+
+
+
+User:
+Where can I go to find therapy?
+
+Chatbot:
+Different kinds of therapy are more effective based on the nature of the mental health condition and/or symptoms and the person who has them (for example, children will benefit from a therapist who specializes in childrenâ€™s mental health). However, there are several different types of treatment and therapy that can help.
+
+
+
+User:
+Where can I learn about types of mental health treatment?
+
+Chatbot:
+Mental health conditions are often treated with medication, therapy or a combination of the two. However, there are many different types of treatment available, including Complementary & Alternative Treatments, self-help plans, and peer support. Treatments are very personal and should be discussed by the person with the mental health conditions and his or her team.
+
+
+
+User:
+What are the different types of mental health professionals?
+
+Chatbot:
+There are many types of mental health professionals. Finding the right one for you may require some research.
+
+
+
+User:
+Where can I go to find a support group?
+
+Chatbot:
+Many people find peer support a helpful tool that can aid in their recovery. There are a variety of organizations that offer support groups for consumers, their family members and friends. Some support groups are peer-led, while others may be led by a mental health professional.
+
+
+
+User:
+Can you prevent mental health problems?
+
+Chatbot:
+We can all suffer from mental health challenges, but developing our wellbeing, resilience, and seeking help early can help prevent challenges becoming serious.
+
+
+
+User:
+Are there cures for mental health problems?
+
+Chatbot:
+It is often more realistic and helpful to find out what helps with the issues you face. Talking, counselling, medication, friendships, exercise, good sleep and nutrition, and meaningful occupation can all help.
+
+
+
+User:
+is there any cure for mental health problems?
+
+Chatbot:
+It is often more realistic and helpful to find out what helps with the issues you face. Talking, counselling, medication, friendships, exercise, good sleep and nutrition, and meaningful occupation can all help.
+
+
+
+User:
+What causes mental health problems?
+
+Chatbot:
+Challenges or problems with your mental health can arise from psychological, biological, and social, issues, as well as life events.
+
+
+
+User:
+What do I do if I'm worried about my mental health?
+
+Chatbot:
+The most important thing is to talk to someone you trust. This might be a friend, colleague, family member, or GP. In addition to talking to someone, it may be useful to find out more information about what you are experiencing. These things may help to get some perspective on what you are experiencing, and be the start of getting help.
+
+
+
+User:
+How do I know if I'm unwell?
+
+Chatbot:
+If your beliefs , thoughts , feelings or behaviours have a significant impact on your ability to function in what might be considered a normal or ordinary way, it would be important to seek help.
+
+
+
+User:
+How can I maintain social connections? What if I feel lonely?
+
+Chatbot:
+A lot of people are alone right now, but we don't have to be lonely. We're all in this together. Think about the different ways to connect that are most meaningful for you. For example, you might prefer a video chat over a phone call, or you might prefer to text throughout the day rather than one set time for a video call. Then, work with your social networks to make a plan. You might video chat with your close friends in the evening and phone a family member once a week. Remember to be mindful of people who may not be online. Check in by phone and ask how you can help. The quality of your social connections matter. Mindlessly scrolling through social media and liking a few posts usually doesn't build strong social connections. Make sure you focus on strategies that actually make you feel included and connected. If your current strategies don't help you feel connected, problem-solve to see if you can find a solution. Everyone feels lonely at times. Maybe you recently moved to a new city, are changing your circle of friends, lost someone important in your life, or lost your job and also lost important social connections with coworkers. Other people may have physical connections to others but may feel like their emotional or social needs aren't met. Measures like social distancing or self-isolation can make loneliness feel worse no matter why you feel lonely now. Reach out to the connections you do have. Suggest ways to keep in touch and see if you can set a regular time to connect. People may hesitate to reach out for a lot of different reasons, so don't be afraid to be the one who asks. Look for local community support groups and mutual aid groups on social media. This pandemic is bringing everyone together, so look for opportunities to make new connections. These groups are a great way to share your skills and abilities or seek help and support. Look for specialized support groups. Support groups are moving online, and there are a lot of different support lines to call if you need to talk to someone.
+
+
+
+User:
+What's the difference between anxiety and stress?
+
+Chatbot:
+Stress and anxiety are often used interchangeably, and there is overlap between stress and anxiety. Stress is related to the same fight, flight, or freeze response as anxiety, and the physical sensations of anxiety and stress may be very similar. The cause of stress and anxiety are usually different, however. Stress focuses on mainly external pressures on us that we're finding hard to cope with. When we are stressed, we usually know what we're stressed about, and the symptoms of stress typically disappear after the stressful situation is over. Anxiety, on the other hand, isn't always as easy to figure out. Anxiety focuses on worries or fears about things that could threaten us, as well as anxiety about the anxiety itself. Stress and anxiety are both part of being human, but both can be problems if they last for a long time or have an impact on our well-being or daily life.
+
+
+
+User:
+What's the difference between sadness and depression?
+
+Chatbot:
+Sadness is a normal reaction to a loss, disappointment, problems, or other difficult situations. Feeling sad from time to time is just another part of being human. In these cases, feelings of sadness go away quickly and you can go about your daily life. Other ways to talk about sadness might be feeling low, feeling down, or feeling blue.A person may say they are feeling depressed, but if it goes away on its own and doesn't impact life in a big way, it probably isn't the illness of depression. Depression is a mental illness that affects your mood, the way you understand yourself, and the way you understand and relate to things around you. It can also go by different names, such as clinical depression, major depressive disorder, or major depression. Depression can come up for no reason, and it lasts for a long time. It's much more than sadness or low mood. People who experience depression may feel worthless or hopeless. They may feel unreasonable guilty. Some people may experience depression as anger or irritability. It may be hard to concentrate or make decisions. Most people lose interest in things that they used to enjoy and may isolate themselves from others. There are also physical signs of depression, such as problems with sleep, appetite and energy and unexplainable aches or pains. Some may experience difficult thoughts about death or ending their life (suicide). Depression lasts longer than two weeks, doesn't usually go away on its own, and impacts your life. It's a real illness, and it is very treatable. It's important to seek help if you're concerned about depression.
+
+
+
+User:
+difference between sadness and depression
+
+Chatbot:
+Sadness is a normal reaction to a loss, disappointment, problems, or other difficult situations. Feeling sad from time to time is just another part of being human. In these cases, feelings of sadness go away quickly and you can go about your daily life. Other ways to talk about sadness might be feeling low, feeling down, or feeling blue.A person may say they are feeling depressed, but if it goes away on its own and doesn't impact life in a big way, it probably isn't the illness of depression. Depression is a mental illness that affects your mood, the way you understand yourself, and the way you understand and relate to things around you. It can also go by different names, such as clinical depression, major depressive disorder, or major depression. Depression can come up for no reason, and it lasts for a long time. It's much more than sadness or low mood. People who experience depression may feel worthless or hopeless. They may feel unreasonable guilty. Some people may experience depression as anger or irritability. It may be hard to concentrate or make decisions. Most people lose interest in things that they used to enjoy and may isolate themselves from others. There are also physical signs of depression, such as problems with sleep, appetite and energy and unexplainable aches or pains. Some may experience difficult thoughts about death or ending their life (suicide). Depression lasts longer than two weeks, doesn't usually go away on its own, and impacts your life. It's a real illness, and it is very treatable. It's important to seek help if you're concerned about depression.
+
+Cham: <Media omitted>
+Jasrizz: That was amazing
+Jasrizz: Who's my favourite super duper famous star??
+Cham: oh jas, you're flattering me too much x
+Jasrizz: And you're loving it x
+Cham: yeah slightly
+Cham: don't worry, it won't be long until you get your own private show x
+Jasrizz: That sounds vaguely sexual, you  better strip for me 👀
+Cham: it unfortunately sounded very sexual
+Cham: but I do not disappoint
+Jasrizz: Better hurry back to Nottingham sooner then later then
+Cham: oh I know, I'm not letting you get away with robbery
+Jasrizz: Hey hey, you left ur belt here willingly
+Jasrizz: Tho... I did take it off your waist
+Cham: exactly, I'm an innocent victim 😭
+Jasrizz: You loved every second of it
+Jasrizz: Ik how your brain operates
+Cham: nah that can't be right, I'm a complete mystery
+Jasrizz: Sure suee
+Jasrizz: I'm off to bed
+Jasrizz: Goodnight nerd x
+Cham: I'm about to fall asleep too
+Cham: sweet dreams thief x
+Cham: <Media omitted>
+Cham: <Media omitted>
+Cham: <Media omitted>
+Cham: <Media omitted>
+Cham: <Media omitted>
+Cham: <Media omitted>
+Cham: <Media omitted>
+Cham: <Media omitted>
+Cham: <Media omitted>
+Cham: <Media omitted>
+Cham: <Media omitted>
+Cham: <Media omitted>
+Cham: <Media omitted>
+Cham: <Media omitted>
+Jasrizz: I love your acoustic version of 16 years xx were you feeling down last night before I left? I felt like I left a bit abruptly
+Jasrizz: Also thank you for sharing ( and recording) that video :)) I appreciate it
+Jasrizz: Want to talk about what's got you down?
+Cham: did you know the song beforehand 👀
+Jasrizz: I wish I did x
+Cham: nah you didn't leave abruptly,  I was feeling good last night
+Cham: I was just feeling a little shitty today cos I messed up with my parents and missed our date :(
+Jasrizz: What happened?
+Cham: wish I was there baby
+Cham: take me away from this shitty house 😈
+Jasrizz: Wanna tell me over call quickly?
+Cham: yeah go on x
+Cham: thank you for the call silly rat lady xx
+Jasrizz: Dont be silly scouse boy xx
+Jasrizz: *SANTA'S TOTAL BODY WORKOUT & END OF YEAR EVENT*
+.23*
+
+
+ FRIENDS & FAMILY*
+
+uperb 2023 ✨️ with some incredible achievements we would love 🥰 as many students and family members to come together for this event. This will include:
+ss 
+ing 
+ss
+ass
+
+
+
+
+N NOW*
+Cham: <Media omitted>
+Cham: <Media omitted>
+ Jasrizz: <Media omitted>
+Jasrizz: <Media omitted>
+Jasrizz: <Media omitted>
+Jasrizz: <Media omitted>
+Jasrizz: <Media omitted>
+
+Dylan S: Yo, still coming to the brunch tomorrow? XD
+Dylan S: Also sorry about the late notice but we're heading to pryzm tonight if you wanna join
+Dylan S: Sesh/pres at Raleigh part
+Cham: actually I can come tonight
+Cham: do I need tickets?
+Dylan S: <Media omitted>
+Dylan S: Can try and buy on the door?
+Cham: haha fuck it, I'm down
+Dylan S: Wicked
+Dylan S: See you soon😈
+Dylan S: Come Raleigh park
+Dylan S: Flat 13 Madison Court
+Cham: cool
+Cham: I'll make my way there now
+Dylan S: Perf
+ Dylan S: Yo
+ Dylan S: So
+ Dylan S: Turns out I also don't have a ticket😂
+ Dylan S: Didn't buy one lol
+ Dylan S: Ben etc are running rlly late so just heading straight there
+ Cham: oh cool
+ Cham: I'll head straight there too
+ Dylan S: This message was deleted
+ Dylan S: Ignore that lol
+ Cham: lmao didn't see 👍
+ Dylan S: Don't think there's tickets on the door :(
+ Dylan S: Might be better to cancel today and head out tomorrow??
+ Dylan S: What you thinking lol
+ Cham: nooooo
+ Cham: I'm already going there haha
+ Dylan S: Ah
+ Dylan S: Like ur in an uber😂😂
+ Cham: yeah yeah
+ Dylan S: Ben and then r going still
+ Cham: oh well
+ Dylan S: Not sure when they're leaving tho
+ Dylan S: It's entry b4 2300
+ Dylan S: So they should be there soon
+ Cham: okay cool
+ Dylan S: I'm very sorry😭
+ Dylan S: Should've called lol
+ Cham: haha don't worry bro
+ Cham: I'll try tickets at the door anyway
+ Dylan S: 🤞🏽 lmk how it goess
+ Cham: r u still seshing?
+ Dylan S: Don't know
+ Dylan S: I'm not with them atm
+ Dylan S: I might take an early night😂
+ Cham: oh fairs
+ Cham: yeah I think I'm gonna be busy tomorrow
+ Cham: going to my friends gig
+ Cham: ur welcome to come
+ Cham: I got 2 spare tickeys
+ Cham: tickets
+ Dylan S: Oooo
+ Dylan S: For where?
+ Cham: tomorrow night
+ Dylan S: Think we might be heading to skint tomorrow but maybe do a joint pres b4?
+ Cham: ohh right
+ Dylan S: You still coming to the bottomless brunch tomorrow btw?
+ Cham: its a small concert thing
+ Cham: yeah I will be
+ Dylan S: Oooo send me a link
+ Dylan S: When you get a chance lol
+ Cham: haha yeah ill do it rn
+ Dylan S: Wicked, will catch up then😂
+ Cham: any chance I could bring my friend?
+ Cham: if there's tickets free
+ Dylan S: No more spaces unfortunately :(
+ Dylan S: Will lyk if someone drops out?
+ Cham: thats cool
+ Cham: yeah that'll be good man, thanks
+ Dylan S: Cool
+ Dylan S: Sorry again for dragging you out and then flaking😂
+ Dylan S: Hopefully you can get tickets there lol
+ Dylan S: Have a good nightt😉
+ Cham: nahhh don't worry my man
+ Cham: but you do owe me a night out ;)
+ Dylan S: Oh I plan to deliver XP
+Dylan S: Someone's dropped out lol
+Dylan S: There's space
+Cham: oh nice
+Cham: thank you for letting me now but i just checked and my friend's not gonna make it :(
+Dylan S: Npnp aha
+Dylan S: Be seeing you soon ;)
+Cham: see you soon bro
+Cham: we meeting there?
+Dylan S: Few of us ubering from 131 faraday road at like 1440 or can meet there
+Dylan S: Whatevers easier
+Cham: yeah i'll meet you guys there
+Dylan S: Wickedd
+Dylan S: We're inside
+Cham: cool, I'm still on my way
+Cham: 10 mins?
+Dylan S: Cool
+Cham: I'm outside
+Dylan S: Sesh tonight?
+Dylan S: Come 2200 XD
+Dylan S: 4 Willoughby Avenue
+Cham: yeah sure man
+Cham: yeah man sure
+Dylan S: Wickedd
+ Cham: im still comming bro
+ Cham: im just late lol
+Dylan S: RC tomorrow? Pres at ours?
+Cham: I would love to bro
+Cham: but
+Cham: I'm in Liverpool now
+Cham: You deleted this message
+Cham: I'm coming back on Saturday evening
+ Dylan S: Wicked
+ Dylan S: Forgot😂😂
+ Dylan S: Perfect, come then XD
+ Cham: if you're seshing, then absolutely
+Dylan S: Will lyk tomorrow😂😂 (today XD)
+Dylan S: Sunday is defo on either way lol
+Cham: is there a sesh tonight?
+Dylan S: Yes, there is!
+Cham: should I come or not?
+Cham: I'm free tonight
+Dylan S: Yhyh come XD
+Dylan S: 😂😂
+Dylan S: Cya soonnn
+ Cham: see ya soon bro
+ Cham: at Ope's House right?
+ Dylan S: Yhyh
+ Dylan S: Coming?
+ Cham: oh yeah, I just got caught up with my housemates lol
+Dylan S: Coming tonight? XD
+Cham: of course
+Cham: can I some mates along?
+Dylan S: Of course
+Dylan S: XD
+Dylan S: 😂😂
+Cham: thanks man
+Cham: when does it start btw
+Dylan S: 2100 XD
+Cham: cool, see you then bro
+Dylan S: Come to Raleigh Park, not their house lol
+Cham: oh nice haha
+Cham: this one right?
+Dylan S: Yupp
+Dylan S: ETA btw?
+Cham: right now
+Dylan S: Like outside? Lol
+Dylan S: Need me to come out?
+ Dylan S: Free tonight? XD
+ Dylan S: Missed voice call
+ Cham: sorry bro
+ Cham: I'm at pryzm
+ Cham: we'll see how tonight goes and might join
+ Dylan S: Oooo enjoy
+ Dylan S: We'll lyk where we're at after in case you wanna join XD
+ Dylan S: Come ours 4 afters XD
+ Dylan S: 4 Willoughby Avenue
+Dylan S: Lmk ETA XD
+Cham: I've left pryzm
+Cham: I'll come to ope house
+Dylan S: Wicked
+Dylan S: Cya soon XD
+Dylan S: ETA? Lol
+Cham: lmao I'm still walking back
+Cham: 20 mins?
+Dylan S: Cool XD
+ Dylan S: Feel free to come over btw
+ Cham: oh sure man
+ Cham: I'm practicing guitar rn so I'll come over around 12?
+ Dylan S: Cool XD
+ Cham: you still coming?
+Cham: yo Dylan, how are are gonna get back from Sutton tonight lol
+Dylan S: Uber between the 4
+Cham: cool cool
+Cham: I'm on my way now
+Cham: I owe Dylan £2.20
+Dylan S: <Media omitted>
+Dylan S: <Media omitted>
+Dylan S: <Media omitted>
+Dylan S: <Media omitted>
+Dylan S: <Media omitted>
+Dylan S: <Media omitted>
+Dylan S: <Media omitted>
+Dylan S: <Media omitted>
+Dylan S: <Media omitted>
+Dylan S: <Media omitted>
+Dylan S: <Media omitted>
+Dylan S: <Media omitted>
+Dylan S: <Media omitted>
+Dylan S: <Media omitted>
+Dylan S: Send me the vid lmao
+Cham: <Media omitted>
+Cham: here is the video of you sexually absuing ben
+Cham: the photo of Ben throwing up tho 🤢
+Dylan S: 😂😂
+Cham: are we meeting up to go to kish's thing?
+Dylan S: Yhyh
+Dylan S: Like 1900ish
+Cham: cool cool, i'll bring jacob dean along
+Dylan S: Cool nice
+Cham: yo Dylan, we going straight there?
+Cham: or going to sesh first
+Dylan S: Not gonna sesh b4
+Dylan S: But feel free to come around 1900/1930
+Cham: cool cool
+ Cham: <Media omitted>
+ Cham: <Media omitted>
+ Cham: <Media omitted>
+ Cham: <Media omitted>
+Dylan S: Canalhouse at 1900?
+Cham: fucks sake 😂
+Cham: I hate my life
+Cham: whos coming
+Dylan S: Me Ben Jacob so far lol
+Cham: I'll come but I don't think I can go hard
+Dylan S: Nice
+Dylan S: Neither😂😂
+Cham: you're a terrible influence Dylan
+Cham: you devil
+Dylan S: 😊
+Cham: should i bring anyone along
+Dylan S: Yhyh feel free
+Dylan S: Like who?
+Cham: just Jacob
+Cham: I think he's free
+Dylan S: Cool cool feel free
+Cham: yeah I asked him
+Cham: he wants to come
+Cham: are we meeting at bens House to go over?
+Cham: nvm hes dropped out
+Dylan S: *1930 probably
+Dylan S: Ben has?
+Dylan S: Or Jacob lol
+Cham: my jacob
+Cham: hes tired
+Dylan S: Oh lol
+Dylan S: Cool fairs
+Dylan S: Probably meet at Ben's around 1920/30ish
+Cham: yeah sounds good
+Cham: see you soon bro
+Dylan S: See you soon XD
+Dylan S: https://menus.preoday.com/Castle-Rock-Brewery/Canal-House#/main/venue/menu
+Cham: can i have the link for the social
+ Dylan S: Sesh tonight at Raleigh Park?
+Cham: fucks sake 😂
+Cham: fuck my life
+Cham: yes
+Dylan S: Yes.
+Cham: what time bro
+Dylan S: Like 2200ish?
+Cham: cool
+Cham: ur flat right?
+Dylan S: Yup
+Dylan S: *any time from 2120 lol
+Cham: cool cool
+Dylan S: *2200ish again😂😂
+Dylan S: Either way lol
+Dylan S: Doesn't matter
+Dylan S: See you soon XD
+Cham: hahahaha
+Cham: yeah we're around this time anyway
+Cham: I'm only bringing jacob
+Dylan S: Nice lol
+Cham: see ya soon bro
+Dylan S: up for poker tonight?
+Cham: yeah sure bro
+Cham: Ben's house right?
+Dylan S: RP XD
+Cham: ah lol
+Cham: should I bring drinks or anything?
+Dylan S: Beers and stuff or whatever you fancy
+Dylan S: Don't think anyones going too hard
+Cham: yeah thats how it starts lol
+Dylan S: 💀
+Cham: when's pres?
+Dylan S: No idea lol
+Dylan S: Ask Ben
+Dylan S: Probably 2100ish
+Cham: oh lol
+Cham: cool man
+Dylan S: <Media omitted>
+Cham: damns thats a good view
+Cham: starting your morning huh?
+Cham: <Media omitted>
+Dylan S: Ahahaha
+Dylan S: Same XD
+Cham: we're gotta celebrate being contributing 
+ight
+Dylan S: 💀
+ Dylan S: <Media omitted>
+Dylan S: Hunter X Hunter
+Dylan S: One punch man
+Dylan S: Ferrand Plantation O.F.T.D. Rum, 70 cl https://www.amazon.co.uk/dp/B06W56ZX2T/ref=cm_sw_r_wa_apa_glt_i_SX7W9W0A1XH4E9TM3WC3?_encoding=UTF8&psc=1
+Cham: <Media omitted>
+Cham: <Media omitted>
+Cham: <Media omitted>
+Cham: <Media omitted>
+Cham: <Media omitted>
+Cham: <Media omitted>
+Cham: <Media omitted>
+Cham: <Media omitted>
+Cham: <Media omitted>
+Dylan S: Cheers ahaha
+Dylan S: Was a great night XD
+Dylan S: If you can email this one over that'd be great😂😂😂
+Dylan S: dylanshah203@gmail.com
+Dylan S: Acc
+Dylan S: You can try sticking them all here:
+Dylan S: https://drive.google.com/folderview?id=19I-v51OwNDfJb7m6zBjbeeyxgTV7xT43
+Cham: oh cool
+ Cham: i uploaded them
+ Cham: yeah it was a fucking good night
+ Dylan S: Tyy aha
+ Cham: oh btw, did you make it on the train? 😂
+ Dylan S: Yhyh XD
+ Dylan S: Surprisingly😂
+Cham: I hope your family got to see you in your 80s outfit lol
+Dylan S: ahaha
+Dylan S: I went home and changed XP
+Cham: damn you were right
+Cham: you actually did have all the time in the world 😂
+Dylan S: We alwaysss have all the time in the world XP
+ Cham: yo Dylan, you coming to nikhil's sesh?
+ Dylan S: Don't think so today :(
+ Cham: ah fair enough
+ Cham: me and ope are gonna go
+ Dylan S: Enjoy ahaha, lmk how it goes XD
+ Cham: oh yeah yeah, we'll let you know if you miss anything 😂
+ Dylan S: Lmao XP
+ Dylan S: What's ur party tonight btw? Any chance 4 of us can hop on?
+ Cham: it starts around 10
+ Cham: I'll ask my mate
+ Cham: oh, who's coming to the saloon btw
+ Dylan S: Red dog 1745
+ Dylan S: Probably me Kish Ben Fateha you
+Cham: Heather said we can come
+Cham: yo Dylan, where we meeting
+Dylan S: Red dog XD
+Cham: oh damn
+Cham: I'm gonna be late lol
+Dylan S: Npnp
+Dylan S: See you soon lmao
+Dylan S: I'll be there in 20
+Dylan S: *leaving from Willoughby at 1815
+Cham: oh we're gonna meet at Willoughby to go to red dog?
+Cham: at 18:15
+Dylan S: Yup
+Cham: oh thank god
+Cham: yeah I can make that
+Dylan S: Wicked
+Cham: there's a lot of people at Heather's sesh
+Cham: not bad
+Cham: what r u guys
+Cham: nvm
+Cham: its dead
+Cham: don't come 😂
+Dylan S: At 19 church street lenton
+Dylan S: Ng71SJ
+Dylan S: ETA?
+Cham: oh ill be there soon ish
+Cham: I'm counciling a mate over her breakup 😂
+Dylan S: Ah np ahaha
+Dylan S: Enjoy XD
+Cham: hello 😎
+Cham: you wanna do something tonight?
+Dylan S: Ye
+Dylan S: Lmao
+Cham: yesss, good man
+Cham: I'm not sure what to do but I would like to have a drink or two :)
+Dylan S: Sure XD
+Dylan S: Down for anything
+Cham: red dog?
+Dylan S: I'm down XD
+Cham: Nice nice
+Cham: I'll ask bored at notts too
+Dylan S: Btw might be just me and u going lol
+Dylan S: Nw if u don't wanna come
+Dylan S: I'm down tho
+Cham: hahaha
+Cham: lmao
+Cham: I'm still down
+Dylan S: Wicked XD
+Cham: we can make other people come 😎
+Dylan S: 😎
+Cham: hey dylan
+Cham: are we going to the seah tonight?
+Dylan S: Yuppp
+Cham: yessss, I can carry on killing myself
+Cham: what time?
+Dylan S: Come whenever
+Dylan S: We're chilling
+Cham: oh cool
+Cham: bring any drinks?
+Dylan S: Yhyh XD
+Cham: wonderful
+Cham: I'll drop by sainsbury's
+Dylan S: Asap
+Dylan S: 😂😂
+Cham: lmao
+Cham: I'll get ready and come 😎
+Dylan S: https://photos.app.goo.gl/STBmiHXVeY8FJrvL9
+Dylan S: (Santander)
+
+
+
+
+
+
+
+
+Dylan S: PayPal:
+Dylan S: dylanshah203@gmail.com
+Dylan S: Was £15 btw
+Dylan S: Mooch today?
+Dylan S: 1830?
+Cham: oh lol, ill do it right now
+Cham: I think I paid you £15 through band transfer
+Cham: did you get it?
+Dylan S: Yhyh cheers XD
+Dylan S: Coming?👀
+Cham: oh god 😂
+Cham: I got so much work to do lol
+Dylan S: Lmao
+Dylan S: So
+Dylan S: Coming? XD
+Cham: ahhhhv
+Cham: I think so
+Cham: I'll have to come a bit later
+Dylan S: Nice, see you soon XD
+Dylan S: Yo, up for the boat party?
+Dylan S: 3hr open bar + food + club + a boatt
+Dylan S: £28
+Dylan S: https://su.nottingham.ac.uk/events/id/1806-neurosoc-x-enviscisoc-boat-party
+Dylan S: btw, did you get a go karting ticket?
+Dylan S: it was under motorsport soc right?
+Dylan S: I dont think they were meant to be listed, the acc tickets were £50
+Dylan S: <Media omitted>
+Cham: lmao that sounds incredible
+Cham: yeah I'm up for it
+Dylan S: Wicked
+Dylan S: Cop one XD
+Dylan S: Me, Fateha, Caitlin, Emma all bought
+Cham: beautiful
+Cham: do we need a membership?
+Dylan S: Nope
+Cham: ah even better
+Cham: yeah ill get one now
+Dylan S: 😎
+Cham: yeah I got a ticket but it said it was for mechsoc
+Dylan S: Ohh
+Dylan S: Lol
+Dylan S: Cool
+Dylan S: That's fine then
+Dylan S: All still happening
+Cham: lol did we get the right ticketsm
+Cham: ?
+Dylan S: Yhyh sorted
+Cham: Nice
+Dylan S: <Media omitted>
+Dylan S: Ah
+Dylan S: Soo
+Dylan S: They've refunded me
+Dylan S: Lol
+Dylan S: U up for cancelling? It is abit overpriced
+Dylan S: I thought it was the outdoor track
+Dylan S: But £30 for transport isn't a good deal lol
+Dylan S: *team sport
+Dylan S: Not transport lol
+Dylan S: If you still want to go I can rebuy/pay for half your ticket or something lol
+Dylan S: Mb misreading the event XD
+Cham: oh lol
+Cham: yeah I don't mind
+Cham: I need to save money too 😂
+Cham: how do I get a refund?
+Dylan S: Email these guys saying you thought it was for the Motorsport society and bought the wrong ticket?
+Cham: oh cool
+Cham: will do
+Cham: yo Dylan, are you up for a science bar crawl? 😂
+Dylan S: Oh boy
+Dylan S: Am I?
+Dylan S: Lmao
+Dylan S: Lmk how it goes XD
+Dylan S: When is it😂
+Cham: it's tonight lol
+Dylan S: Die
+Dylan S: But first send me the link😂
+Cham: hahahaha
+Cham: not a no then 😎
+Cham: https://su.nottingham.ac.uk/events/id/1602-the-wacky-science-bar-crawl
+Cham: <Media omitted>
+Dylan S: It's kinda late thoo :/
+Cham: oh yeah
+Cham: I don't really wanna go
+Dylan S: Oh great
+Dylan S: Now we have to
+Dylan S: 😂😂
+Cham: but I just brought a ticket now because my friends are going
+Dylan S: Cool cup
+Dylan S: *chill
+Dylan S: **cool
+Dylan S: Imma pass on this one XD
+Cham: nah I don't blame you 😂
+Cham: survived one day of not drinking :)
+Dylan S: 💀
+Dylan S: Me Ope and Blaise heading to Korea House for dinner tomorrow around 1845 if you wanna join btw
+
+l/6rt5frNF4xc8veN36
+
+Dylan S: Jacob too lol
+Dylan S: And fateha
+ Cham: oh nice
+ Cham: do we have to book or anything?
+ Cham: I'm down
+Dylan S: Wicked XD
+Dylan S: Nah, all gd XD
+Cham: yo Dylan
+Dylan S: Leaving from Willoughby around 1630?
+Dylan S: *1830lol
+Dylan S: Or RP
+Dylan S: Me and Blaise
+Dylan S: Jacob and Ope
+Cham: I might meet you guys there
+Dylan S: Yhyh sure np
+Cham: although, I woke up ill today and its quite bad
+Cham: I'm not sure if I want to give it to you guys 😂
+Dylan S: Ahahahaha
+Dylan S: Wouldn't worry about that lol
+Dylan S: Nw if ur not feeling it tho
+Dylan S: Got a campus bar crawl for later XD👀
+Cham: lmao, also tonight?
+Dylan S: Ofc XD
+Dylan S: You can make it XP
+Cham: oh god 😂😂
+Cham: what time you starting?
+Dylan S: Not sure lol
+Dylan S: Probably around 2000ish
+Cham: lmao
+Cham: yeah I'm not feeling up for it rn
+Dylan S: Fair enough aha
+Dylan S: Lmk if that changes XD
+Cham: but I'm gonna see if I feel better later on in the night
+Dylan S: 🤞🏽
+Cham: oh absolutely lol
+Cham: hey Dylan, Ben told me you had a spare ticket for the boat party for kish?
+Cham: can I buy it off you?
+Cham: I haven't brought one yet lol
+ Dylan S: Oh you silly man
+ Dylan S: It's gone to Jacob already :((
+Cham: ah
+Cham: yeah
+Cham: I fucked up 😂
+Dylan S: :(
+Dylan S: Plans for tonight?👀
+Cham: hahaha well I was planning to do a bit of work now
+Cham: and see what happens later 😈
+Dylan S: Cool XD😂
+Dylan S: Will lyk if we're thinking of anything lol
+Cham: yo Dylan, are you doing anything tonight?
+Dylan S: No plan but can do lol
+Dylan S: Not sure who's free
+Cham: bored at notts group chat?
+Dylan S: Can do aha, noone ever replies there tho lmao
+Cham: they're scared of us, I don't blame them lol
+Cham: we can see if Ben and the others are free?
+Dylan S: Know Kish is busy
+Dylan S: Ben's still asleep I'm pretty sure😂😂
+Dylan S: Jacob would be down
+Cham: lmao, of course
+Cham: yeah we could do something with jacob
+Cham: I wonder if my mates are free
+Dylan S: Could go back to campus tomorrow
+Cham: the campus bar crawl?
+Dylan S: Yhyh
+Cham: yeah sure
+Cham: aren't we doing a mooch study sesh tomorrow too?
+Dylan S: I'm still up for something tonight if you find people lol
+Dylan S: 💀
+Cham: oh there's be lots of studying 😂
+Dylan S: More bars=more studying right
+Cham: something like that
+Cham: a shot of 15 mins of work
+ Cham: I tried snapping people and they didn't want anything lol
+ Cham: clearly they're sick of me 😂
+ Dylan S: Ahahaha
+ Dylan S: :(
+ Dylan S: Crush them into submission😈
+ Cham: we just need them to say yes once and we'll get them addicted quick
+ Dylan S: 😭
+Dylan S: Up for pub?👀
+s edge around 1700 XD
+Cham: Oh nice
+Cham: I got something with my housemates atm
+Cham: But I can join you guys later on?
+Dylan S: yhyh sure
+Cham: you gonna sesh afterwards?
+Dylan S: Probably lil
+Dylan S: *lol
+Cham: oh, we HAVE to sesh dylan 😂
+Dylan S: Sesh around 2230 if ur up for it XD
+Cham: oh yeah, absolutely
+Dylan S: 💀
+Dylan S: 😂😂
+Cham: what are you guys doing until then?
+Dylan S: Nothing much, might watch Arcane in about an hr or so (ope working till then)
+Cham: oh nice
+Cham: yeah, I'm looking to do something until the sesh lol
+Dylan S: Lmao
+Dylan S: Housemates interested in the sesh?👀
+Cham: maybe, I doubt it tho 😂
+Dylan S: Watching now btw
+Cham: Nice, should I join lol
+Dylan S: Feel free XD
+Cham: I'll come over?
+Dylan S: Nice
+Dylan S: See you soon XD
+Cham: your flat right?
+Dylan S: No no
+Dylan S: Willoughby
+Dylan S: Lol
+Cham: oh ohhhh
+Cham: yeah thats makes more sense
+Dylan S: Any of ur house joining? XD
+Cham: I've asked jacob
+Cham: yeah he's coming
+Dylan S: Leah?
+Dylan S: Trying to get numbers😂
+Cham: I'll ask now
+Dylan S: Bring the hordes😈
+Cham: the hordes is one person lol
+Dylan S: 😂😂
+Dylan S: Failure XD
+Dylan S: Won't be many of us btw
+Dylan S: Chill sort of sesh night😂😂
+Cham: oh fair
+Cham: i'll bring some drinks
+Dylan S: Nice lmaoo
+Dylan S: 5.12
+ Dylan S: https://su.nottingham.ac.uk/events/id/1834-christmas-boat-cruise-and-dinner
+ Dylan S: Up for this one?👀
+ Cham: I paid you 👍
+ Cham: oh yes pls
+ Cham: this time I'll actually buy a ticket 😂
+ Dylan S: Nice
+ Dylan S: I'll book on too
+ Dylan S: Let's go XD
+ Cham: is it for any society or anything?
+ Dylan S: https://su.nottingham.ac.uk/shop/product/77-mechsoc-1-year-membership
+ Dylan S: Think u gotta do this
+ Dylan S: But means u can come to engineers bingo and stuff too lol
+ Cham: ooooooh
+ Cham: yeah sure
+ Dylan S: Nice XD
+ Cham: I'm basically an engineer anyway
+ Dylan S: 😂😂
+ Dylan S: Ur one of us
+ Dylan S: So is ben😂😂
+ Cham: oh basically
+ Cham: you ruined me dylan
+ Dylan S: 😳💀
+ Cham: you doing anything tomorrow night?
+ Dylan S: No plan yet😂😂
+ Cham: we need to sesh
+ Dylan S: 😭
+ Cham: that sounds like a yes
+Cham: yo Dylan, I got a refund for my gokarting ticket
+Cham: no need to buy a new one
+Dylan S: Ayy perfect
+ Dylan S: Sesh Monday 2230, you down?
+ Cham: ohhh yes please
+ Cham: count me in
+ Dylan S: Wicked XD
+ Cham: you back from london?
+ Dylan S: Back tomorrow XD
+ Cham: ahhhhh
+ Cham: and we need to go back immediately to the sesh 😂
+ Dylan S: Ofc
+ Dylan S: Yo
+ Dylan S: Jacob can't make boat party
+ Dylan S: You want the ticket?👀
+ Dylan S: <Media omitted>
+ Dylan S: I've messaged you and Ope so whoever replies first gets it XD
+ Dylan S: And Jamie lol
+Cham: hahaha
+Cham: did I get it?
+Dylan S: Yhyh ahahaha
+Cham: ohh they're unlucky
+Cham: they're gonna miss out
+Dylan S: Gonna go straight btw
+Dylan S: So come around 1740
+Cham: east drive on campus right?
+Dylan S: No no
+Dylan S: 4 Willoughby
+Dylan S: Then we can Uber straight there
+Cham: oh lol
+Cham: yeag cool
+Cham: I'm 2 mins away
+Dylan S: Nice
+Dylan S: I'm still 5 away lol
+Cham: lmao
+Cham: didn't the event people say the buses will leave without us lol
+Dylan S: <Media omitted>
+Dylan S: Rose and crown 1845?
+Dylan S: *1745 lol
+Cham: oh god 😂
+Cham: i have lots of work to do lmao
+Dylan S: soo
+Dylan S: see you there? XD
+Cham: hahahah
+Cham: ohhh boyyy
+Cham: I have to go to workshop now, I'll let you know after
+Dylan S: sure XD
+Cham: yo dylan, you still at rose and crown?
+Dylan S: Nah, didn't go aha
+Cham: oh damn
+Cham: very unfortunate
+Cham: is there a sesh tonight?
+Dylan S: Don't think so😂
+Dylan S: Maybe XD
+Cham: oh haha right
+Cham: i thought someone yesterday said a sesh tonight
+Dylan S: Perhaps
+Dylan S: Perhaps not
+Dylan S: Maybe save it for tomorrow XD
+Cham: yeah good idea
+Cham: im shattered 😂
+Dylan S: Fuck that
+Dylan S: Turns out we're going rose and crown now lol
+Cham: fucks sake 😂
+Dylan S: Master J L Rudolph 
+
+50
+
+Dylan S: Send £30 over to Jacob btw for the boat party
+Dylan S: And £3.50 to me when you get a chance for the Uber lol
+Cham: oh right yeah
+Cham: forgot the boat party wasn't free lmao
+Cham: oh shit
+Cham: i paid you on the day we went
+Cham: but i sent you £33.50 because i thought i was paying you for the boat party ticket
+Dylan S: Ohhh
+Dylan S: Cool nice
+Dylan S: Mb
+ Dylan S: btw lol, this'll work with any Greene king pub I'm pretty sure, basically 20% off
+g-pubs.co.uk/pubs/nottinghamshire/ye-olde-trip-to-jerusalem/black-friday?utm_source=dotmailer&utm_medium=email&utm_campaign=interaction&utm_keyword=&utm_content=whatsapp
+ Cham: oh nice
+ Cham: thanks man
+ Cham: pubs should start doing black Friday more often
+ Dylan S: Doing mine now
+ Dylan S: Will lyk if it works lol
+ Cham: Nice nice
+ Dylan S: All good
+ Dylan S: You redeem it in person at the pub apparently
+ Dylan S: They give you a code
+ Dylan S: Will try it out tomorrow XD
+ Dylan S: Doesn't work with the app
+ Cham: oh cool
+ Cham: what do I need to do to get the code?
+ Dylan S: Pay £40 basically
+ Dylan S: Through this link
+ Dylan S: Then you get a code for £50
+ Cham: oh okay
+ Cham: is that £40 in one go?
+ Dylan S: The spending? Don't think so no
+ Dylan S: The paying is up
+ Dylan S: *yup
+ Cham: right okay I get it now
+ Cham: basically free £10 after paying £40
+ Dylan S: Yup exactly
+Cham: uhhh dylan
+Cham: are we still going to the pub 😂
+Dylan S: dont think so lol
+Dylan S: in the week XD
+Cham: hahha fair enough
+Cham: we could still drink tonight?
+Dylan S: im down if u get some people lol
+Cham: ohhhh
+Cham: sounds like a challenge 😈
+Dylan S: loool
+Cham: yeah nvm
+Cham: i can't lo
+Cham: lol
+Dylan S: :(
+ Dylan S: Up for heading to winter wonderland tomorrow? Also the last day of spoons £1 pints👀
+nd 1700ish
+ Cham: yeah sure, I'm down
+ Dylan S: Wicked
+ Cham: I'll have to come a little late because I got something on campus until 5
+ Dylan S: Cool sure XD
+ Cham: where are you dylan
+ Cham: come to rock city
+ Dylan S: buddy
+ Dylan S: its 2300😂😂😂
+ Dylan S: who you with lmaoo
+ Cham: yes
+ Cham: I knoa
+ Cham: know
+ Cham: ben
+ Cham: caitlyn
+ Cham: someone else who i don't their name
+ Cham: come on dylan
+ Cham: don't you want to get drunk 😈
+ Dylan S: if youd asked 2hrs ago idve been on board looool
+ Dylan S: was getting bored XD
+ Cham: oh
+ Cham: oyg
+ Dylan S: but sleeping nowss
+ Cham: thats okay
+ Cham: time to get drunk
+ Cham: tickets are cheap
+ Dylan S: RC closes in 3hrs😂
+ Cham: what
+ Cham: really?
+ Dylan S: you guys anywhere close to leaving lol?
+ Dylan S: *4hrs
+ Dylan S: closes at 030
+ Cham: no
+ Cham: we just got here
+ Cham: you join us for the afterparty 😂😂
+ Dylan S: Oh lmaoo
+ Dylan S: You enjoy
+ Dylan S: Catch you soon lol
+ Cham: yes indeed
+ Cham: I won't enjoy but yes
+ Dylan S: 😂😂😂
+Cham: hey dylan
+Cham: sesh tonight?
+Dylan S: im down
+Dylan S: but think some poeple might be busy lol
+Cham: oh thats fine lol
+Cham: its not mine
+Cham: hasan's invited me to a sesh tonight
+Dylan S: lmk if u get peeps together ahaha
+Dylan S: Ooooo
+Dylan S: What time and where XD
+Dylan S: Who's thinking of going?
+Dylan S: I'm a strong maybe atm XD
+Cham: not sure lol
+Cham: starts at 10
+Cham: at this house, 49 lenton boulevard
+Cham: will do, should I ask bored at notts?
+Dylan S: Can do xd
+Dylan S: Dk if I'll make it or not😥
+Dylan S: Maybeee
+Dylan S: Looking forward to boat party either way XD😎
+Cham: this sounds like a yes ;)
+Cham: oh me too
+Cham: I only have a grey suit btw, not black-tir
+Cham: tie
+Cham: do you think they will care?
+Dylan S: Nah lol all calm I reckon XD
+Cham: Nice nice
+Cham: its gonna be a good night 😎
+Dylan S: Im not gonna make it to this one :(((
+Dylan S: Still in bed lmao
+Dylan S: took a nap and just woke up ahaha
+ Cham: ah its alright man
+ Cham: I'm not even there yet lol
+ Dylan S: <Media omitted>
+ Dylan S: https://www.fatsoma.com/e/zzrtamu0/mech-soc-afterparty-day-n-nite-alto
+ Dylan S: Get ur ticket XD
+Cham: got it 😎
+Dylan S: the afterparty right not the acc boat party lol
+Dylan S: nice
+Dylan S: gonna be funnnn
+Dylan S: how was ln?
+Cham: hahaha yeah, I'm pretty sure its the right one
+Cham: not too bad, got there way too late lol
+Cham: it was just decent, me and Jacob left at 2
+Dylan S: Standard standard😂😂
+Dylan S: Nice
+Cham: help me dylan
+Cham: I'm drinking tonight too
+Dylan S: grim reaper on it b4 I will be lmao
+Cham: the sesh never ends 😂
+ Cham: are we gonna head to campus or go straight to the boat again?
+ Dylan S: I reckon Lenton
+ Cham: yeah, thats much easier
+Dylan S: I'm here XD
+Dylan S: We gotta GO
+Dylan S: This message was deleted
+Cham: <Media omitted>
+Cham: <Media omitted>
+ Dylan S: Morning😂
+ Cham: hahha
+ Cham: good morning Dylan
+ Cham: hows the hangover? 😂
+ Dylan S: Me no think so good
+ Cham: give me a sec
+ Dylan S: Missed video call
+ Dylan S: Sure XD
+ Dylan S: Ah
+ Dylan S: Gimmie some mins too😂
+ Dylan S: You up for cheese and wine night in place of Christmas dinner on Thursday? 
+want cheese + £5 for loads of wine
+ Cham: Oh yeah, I'll be down
+ Cham: I thought Christmas dinner was on Friday?
+Dylan S: No no Thurs XD
+Cham: ah cool cool
+Cham: where we getting the goods?
+Dylan S: probs lidl ahaha
+Cham: nice and cheap 😎
+Dylan S: From 2000?👀
+Cham: I think so
+Dylan S: Perfect
+Cham: I probably have to come late
+Dylan S: Cool cool
+Cham: Gotta submit essay before I come
+Dylan S: Send over £10 when u get a chance plss
+Cham: oh yeah, of course
+Cham: i'll do it now
+Dylan S: tyy
+Cham: <Media omitted>
+Dylan S: Ahahaha nice
+Dylan S: Enjoy XD
+Dylan S: Liverpool has one? Lmao
+Cham: oh yeah, I think they're everywhere 😂
+Dylan S: Wicked XD
+Cham: expensive tho 😂
+Dylan S: 😭
+Dylan S: Yo, wanna come to London/head to mine for NYE?
+Cham: oh yeah, I would love to come but I think I might be doing something with my family for NYE
+Cham: I'll let you know tho
+Cham: hey Dylan, I can't come to the new years party :(
+Cham: my family has a little new years party planned which I have to go to :(
+Dylan S: Nw ahaha
+Dylan S: Sounds fun XD
+Dylan S: Enjoyy😉
+Cham: oh i always do ;)
+Cham: oh crap, im a little late
+Cham: hope you had a happy birthday Dylan
+Cham: we need to celebrate once we come back 👀👀
+Dylan S: No worries no worries ahahaha
+Dylan S: It was good ahaha
+Dylan S: Oh we will😈
+Dylan S: I'm back next week XD
+Dylan S: Gonna be a busy week😈😂😂
+Dylan S: Catch you soonn
+Cham: this is exactly what I'm scared of
+Dylan S: 🙉🙈🙊
+ Dylan S: Imma sort seating thingy for engineering ball for us?
+
+
+
+
+
+
+
+
+others to confirm if they're coming and then I'll send it off
+ Dylan S: I'm back to tomorrow btw, u in Notts?
+ Cham: ah yeah, thank you for doing that 😂
+ Cham: yeah I moved back on friday
+ Dylan S: Np lmao, I look forward to it😈
+ Dylan S: 😈😈😈😈
+ Cham: hahaha, I'm very scared for what you have planned
+Dylan S: Free to head out tomorrow from 1500?👀
+Dylan S: Bottomless Brunch @ turtle bay
+Cham: hahahaha, I think so
+Dylan S: Dont be late XP
+Cham: what makes you say that :)
+Dylan S: 💀
+Dylan S: ETA?
+Cham: you still at the pub?
+Dylan S: Yep
+Cham: I wanna come but I can't be bothered to wake up 😂
+Dylan S: Loooool
+Dylan S: Come XP
+Cham: yeah I will, as soon as I find the will to live
+Dylan S: 💀
+Dylan S: Come XD
+Cham: life is very painful dylan
+Dylan S: Come XP
+Cham: I'm getting ready xx
+Cham: Rose and crown right?
+Dylan S: Yup0
+Dylan S: See you soon XD
+Cham: very unfortunately 😂
+Dylan S: 😉
+Dylan S: Btw cld u send £10 for the round of drinks at Revs when u get a chance XD (I think u got 2 cocktails right? Lmk if I'm wrong lol)
+Dylan S: (Kish revs btw not de Cuba XD)
+Cham: yeah sure, i'll do it now
+Cham: i do remember getting drinks so i think you're right
+Cham: sent 😎
+ Dylan S: Tyy XD
+Cham: yo Dylan, hasan has invited me to a karaoke sesh tomorrow night
+Cham: wanna come 👀👀
+Dylan S: Imma be in London :(
+Dylan S: Else I would lmao
+Dylan S: Heading to Venice on Friday ahah
+Cham: oh shit hahaha
+Cham: yeah thats slightly difficult 😂
+Cham: when you coming back?
+Dylan S: Wednesday probably XD
+Cham: will you be seshing when you get back 👀👀
+Dylan S: I'm sure we will😈
+Cham: oh good, I was worried 🙃
+Cham: enjoy London and Venice dylan :)
+Dylan S: Thank youu XD
+ Dylan S: Missed voice call
+Cham: <Media omitted>
+ Dylan S: Hmmmmmm perhaps but don't count me as definite XD
+ Dylan S: Lmk who's going
+Cham: yeah, its just me 😂
+Dylan S: Ahahaha
+Dylan S: U going? XD
+Dylan S: Enjoy if you make it! aha
+Cham: why wouldn't I be going dylan
+Cham: im a raging alcoholic!
+Cham: thank you very much dylan
+Cham: I'll have a drink in honour of you
+Dylan S: Damn right XD
+Cham: TheChamChamHD
+Dylan S: Up for a bottomless brunch on Monday at turtle bay? 1500👀 XD
+Cham: yes
+Dylan S: *Wednesday?
+Dylan S: Also, come Willoughby today, not pub XD
+Dylan S: We'll eat here?
+Cham: oh okay, I'll come to Willoughby
+Dylan S: Can u grab a big box of beers on ur way over XD? Can send me ur PayPal?
+Cham: of course
+Dylan S: Perfectt
+Dylan S: ETA btw?
+Cham: I'm in sainsbury's xx
+Dylan S: Nice ahaha
+Cham: I can't find nuts
+Dylan S: Oh ok nwnw
+Dylan S: Any snack to go with the beer then XD
+Dylan S: **Thursday now lol
+Cham: oh yeah, that's cool fo rme
+Cham: for me
+Dylan S: Cancelled :(
+Cham: ah crap 😂
+Cham: are we doing anything instead? 👀
+ Dylan S: RC later I think, Ben ope Caitlin are going
+ Dylan S: Unless any of your friends are up for it? Me and Blaise are still down
+Cham: yeah I was down but my friends weren't :(
+Dylan S: Heading to red dog now
+Cham: on our way xx
+Cham: I'm in my bolt
+Cham: are you there yet?
+ Dylan S: Wya?
+Dylan S: Raleigh Park has an 80 inch (ikr) new TV in a room with an Xbox one and PS4, we just have to bring game + controllers - COD here tonight?👀👀
+Dylan S: Acc maybe not tonight XD, soon tho
+Cham: oh thats perfect
+Cham: yeah sure, I'm down for it soon 😎
+Dylan S: About 2100?
+Dylan S: Tonight
+Dylan S: Sillitoe Court
+am, Nottinghamshire NG7 2JZ
+/v/4f341756e4b00c3266b03bf1
+Dylan S: Come there and call btw^
+Cham: wonderful
+Cham: I'll be there around 10 ish?
+Dylan S: Perfect
+Dylan S: Bring the game and controllers XD
+Dylan S: Xbox console here
+Cham: do we need beer
+Dylan S: Yes XD
+Dylan S: Pls
+Cham: beautiful
+ Dylan S: Missed group voice call
+ Dylan S: COD again tonight?👀
+Dylan S: *weekend XD
+Cham: sorry Dylan :(
+Cham: I'm going out tonight :((
+Dylan S: Np ahaha
+Dylan S: Enjoy XD
+Dylan S: Where to?
+Cham: rock city
+Cham: ohhh dylannn
+Cham: its time to seshhhh
+Cham: rock city?
+Dylan S: Who's going? XD
+Cham: just me, ope and jd lol
+Dylan S: Not today unfortunately :(
+Dylan S: Catch you soon XD
+ Cham: I hate you 😈
+ Dylan S: How r u feeling about Budapest Trip btw👀
+Cham: ohhh I wanna go
+Cham: but I'm not sure if I'm gonna be back home by the time we go :(
+Dylan S: That's cool, can travel from Liverpool no?
+Dylan S: We'd all meet there
+Cham: oh yeah we can travel from there but I'm not sure if I'm going to be busy back home or not :(
+Dylan S: Oh cool cool
+Dylan S: When do u think ud know by XD
+Cham: I'll let you know in a one day or two 👍
+Dylan S: Perfectt
+Dylan S: how's it looking XD
+Cham: don't think I can go :(
+Dylan S: np :((
+Cham: who's going now?
+Dylan S: probably me and ben
+Dylan S: maybe Winnie
+Dylan S: itll be a sick trip if u can make it X
+Dylan S: XD
+Dylan S: any chance?👀
+Dylan S: final year that we'll all be together at uni XD
+Cham: ahh i wanna go
+Cham: but my parents won't let me until exams are over :(
+Cham: i could go sneakily of course
+Dylan S: sneaky sneak
+Dylan S: 4 nights only👀
+Dylan S: say ur still in notts XP
+Dylan S: using the library and stuffss
+Cham: hahhaa
+Cham: tbf, I thought ill be back home by the 10th
+Cham: I didn't realise term is going on until the 8th
+Cham: so ill be here 👀👀
+Cham: ah fuck it, I'll come if I can do sneakily 😂😂
+Dylan S: niceeee
+Dylan S: will lyk when we're booking XD
+Dylan S: Soo, cheapest flight is from London - u wanna coach over to london (£8ish) and stay a night or two at mine and then travel together? Other option is flying from Manchester/Liverpool
+Cham: yeah ill perfer going with you
+ Dylan S: Monday games night again?👀
+Cham: I'm down
+Cham: at yours again?
+Dylan S: yupp
+Cham: beautiful, i'll bring cod and some beers 😎
+Dylan S: ah
+Dylan S: dates have changed
+Dylan S: 23rd to 27th now
+Dylan S: does that not work for u :/
+Dylan S: perfectt
+Cham: ah its a little difficult but I'll see if it works
+Cham: maybe ill be back in notts for then
+Dylan S: oooooo
+Dylan S: lmk
+ Dylan S: will lyk what ben's thinking when he lets me know XD
+ Dylan S: catch u tomorrow ;)
+ Cham: ah cool
+ Cham: catch you tomorrow ;)
+ Cham: what time are we meeting?
+ Dylan S: like 1900?
+ Cham: yeah, that's good for me
+ Dylan S: perfect
+Dylan S: Looks like Ben's down for Budapest, u in?
+Dylan S: u can spin that for sure XD ;)
+Cham: hahaha i coulddd
+Cham: but it depends
+Cham: are you going home soon?
+Dylan S: Probably next Wednesday/Thursday
+Cham: yo dylan, do you wanna go to crisis on Wednesday?
+Dylan S: Very possibly
+Dylan S: theres a chance I might be going home on wednesday but if not than sounds great
+Dylan S: who else is going?
+Cham: it's with hasan's housemates
+Cham: we met him last semster at a sesh and i've been to a couple of their seshes
+Cham: so them, caitlin and kish are coming too
+Dylan S: nice
+Dylan S: hopefully I'll make it
+Dylan S: Also I have no phone so whats app call when ur here XD
+Cham: ahh cool, will o
+Cham: do
+Dylan S: lmk eta XD
+Dylan S: kish nrly here now i think so can come whenever
+Cham: oh yeah, im on my way
+Cham: just grabbing a beers and snacks
+Dylan S: perf
+Cham: where do I go again
+Cham: is it the common room
+Dylan S: wya?
+Cham: at the entrance
+Dylan S: yup
+Cham: can't quite remember where it is
+Cham: at the Blue gate
+Dylan S: lmk XD ;)
+Dylan S: hows the cwk going ahaha
+Cham: not well lol
+Cham: if I manage to finish it, I'll come out tonight 😎
+Dylan S: ahahaha
+Dylan S: I'm off tomorrow :(
+Dylan S: dont think we'll manage to get anyone else tonight :((
+Cham: not even our little kish?
+Dylan S: manage to work it out?👀
+Cham: not yet :(
+Cham: i think i've figured out that i'm fucked for exams 😂
+Dylan S: ahahaha
+Dylan S: thats the spirit
+Dylan S: now we ignore it untll they're here ahaha
+Cham: hahaha
+Cham: that's been the plan for last 3 years!
+Cham: i'm not finished with coursework and i won't be any time soon :(
+Dylan S: all the best XD
+Dylan S: reckon u'll know today/tomorrow? XD
+Cham: oh i'll have to finish it today
+Cham: it's due for tomorrow lol
+Dylan S: oh lol
+Dylan S: not the cwk
+Dylan S: if u can come to Budapest aha
+Cham: ohhhh righttt lol
+Cham: can i let you know after i finish my coursework :(
+Cham: it's a pain in the ass atm
+ Dylan S: yhyh np
+ Dylan S: How was RC👀🤪
+Cham: oh dylan
+Cham: oh so painful
+ Dylan S: Ahahahaha
+ Dylan S: Good night then XD
+ Dylan S: Gimmie gimmie gimmie XD
+ Dylan S: Oh Mr chamoodd
+Cham: oh dylannn
+Cham: i don't think i should go lmao
+Cham: im so fucked for work
+Cham: I don't think I could afford to miss 5 days worth of work :(
+Dylan S: Oh Mr chamoooddd
+Dylan S: U for sure can XP
+Dylan S: Only 5 days
+Dylan S: Work on the flight if u need to
+Dylan S: Then we have ages till exams after the holidays XD
+Dylan S: Trust
+Dylan S: It'll be calm
+Dylan S: And last year of uni we're all togetherr XD
+Dylan S: 2 years of COVID to make up for too
+Cham: hahahaha
+Cham: can't we go after exams :)
+Dylan S: I'm off to work in summer :(
+Dylan S: But also it'll be wayyy more expensive
+Dylan S: The time is now
+Dylan S: Later comes later XD
+Cham: ah fuck it
+Cham: i'll come
+Cham: 23rd right?
+Dylan S: That's what we like to hearrrr
+Dylan S: 23-28 yupp
+Cham: and do you think i can work while im there :)
+Dylan S: Ofc XD
+Dylan S: There's like common room type places with tables in the hostel I'm pretty sure
+Cham: hahaha
+Dylan S: XD
+Dylan S: Nice
+Cham: what if I revise the whole time im there :)
+Dylan S: Will send links and details to book tomorrow
+Cham: thank you dylan
+Cham: you are an absolute menace to my life 😂😂😂
+Dylan S: Lovely
+Dylan S: This will be a trip to remember😎
+Dylan S: Waiting to hear back from Ben with confirmation😂😭
+Dylan S: No more Ben :(
+Dylan S: No more Budapest Trip with the gang ahaha
+Dylan S: Sry for messing you around XD :(
+Cham: ah shit :(
+Cham: yeah I had a feeling he might not want to go lol
+Cham: no no no, that's okay
+Cham: there's still hope for a summer trip? 👀👀
+Dylan S: Yhyh
+Cham: you free over the summer right?
+Cham: alcohol in Budapest won't drink itself!
+Dylan S: 👀👀
+Dylan S: Busy from mid June with placement :(
+Dylan S: But we'll squeeze something in lol
+Cham: ah so we'll have to be back by mid June then :)
+Dylan S: Yupp
+Dylan S: Or I can dip early XD
+Cham: I disagree
+Cham: you'll be too drunk to get on the plane
+Dylan S: 😂😂 let's hope😈
+Cham: yes I do :)
+Cham: <Media omitted>
+Dylan S: Ooo thank you
+Dylan S: Hold onto it for me ahaha
+Cham: Good morning dylan
+Dylan S: Good morning Mr chamod XD
+Dylan S: I will be seeing you tonight I hope😉❤️
+Cham: yes you will be xx
+Dylan S: Ooo and stick the pics/vids onto funny init XD
+Dylan S: Helloo, Ben's coming up to Leam this weekend (24th XD) and I was wondering if you'd be free too? (have asked the others as well aha) - can stay a couple days into the week if you fancy
+Dylan S: Come anytime from 1330 on Friday XD
+Dylan S: Chamann XD
+Dylan S: Ope's coming on Saturday btw if that works better for you? Might be able to catch a lift 👀
+ Dylan S: Interested in coming up this weekend? Big pub crawl for a m8s bday happening
+ Dylan S: Caitlin's down XD
+Cham: I'm sorry Dylan, I've given up drinking forever
+Cham: Good morning Dylan
+Cham: are you free next weekend 👀
+Dylan S: I am on Sunday XD
+Dylan S: What's happening 👀
+Cham: my birthday 😈
+ Dylan S: Ooo nice XD
+ Dylan S: Busy Friday to Saturday sadlyy
+ Dylan S: But free Sunday eve 👀
+ Dylan S: Let me know!
+ Dylan S: No worries if that day doesn't work XD
+ Cham: come on dylan
+ Cham: I got a new pair of glasses to stomp 👹
+Dylan S: Missed voice call
+Cham: I'm coming for you dylan
+Cham: Good morning Dylan
+Cham: I'm coming at like 6 is that's okay?
+Dylan S: Yhyh see you then XD
+Cham: do I need to bring anything 👀
+Dylan S: Anal beads
+Cham: done 😎
+Cham: do I need to bring a sleeping  bag?
+Dylan S: Oo yes if you have
+Cham: <Media omitted>
+Dylan S: https://goo.gl/maps/Wn1W8CmC3QLCczZY6
+Dylan S: Missed voice call
+Dylan S: Progress? XD
+Dylan S: Missed voice call
+Dylan S: Chamod bby
+Dylan S: Where r u
+Cham: <Media omitted>
+Cham: it's too fucking hot to talk on the train
+Dylan S: Missed voice call
+Dylan S: I'm going to cum down your throat on the train
+Dylan S: Best wishes armaan
+Cham: I'm going to die even before I get there armaan
+Dylan S: For the best..
+Dylan S: Chamooddd
+Dylan S: Send over the video of me untaping myself XD
+
+ Google photos when you get a chance XP
+Dylan S: Chammannn
+Dylan S: Oo and how's your summer going btw XD
+Cham: it could not be going worse Dylan 🙃
+Cham: when are you back in Notts 👀👀
+Dylan S: 22ndish XD, hbu? Where you staying this year?
+Cham: start of October
+Cham: in town baby 🤠
+Cham: I'm hoping not to see too much of you this year
+Dylan S: Perfect, we'll hit up the casino together ❤️
+Cham: you stay away from me Dylan
+Cham: i finally got my life back together 😭
+Dylan S: Helloo
+ny plans for this weekend? 👀
+Cham: Good morning Dylan
+Cham: you free friday night 👀
+ Dylan S: 🤠🤠🤠
+ Dylan S: But also yes XP
+Cham: you free for the pub?
+Cham: we need a little catch up 🥰
+ Dylan S: Rose and crown?
+ Dylan S: <Media omitted>
+Cham: perhaps 👀
+Cham: i was thinking spoons?
+ Dylan S: Don't mind don't mind
+ Dylan S: Just lmk when and where
+Dylan S: Anything happening tonight?
+Cham: Good morning Dylan
+Dylan S: Helloo
+Cham: I've never felt worse
+Dylan S: Yo
+Dylan S: Tomorrow
+Dylan S: Town?
+Dylan S: Could do crazy golf
+ Cham: Good morning Dylan
+ Cham: yeah sounds good
+ Cham: would it be alright if jas came?
+ Dylan S: Yhyh np
+ Cham: gloryholes?
+Dylan S: Everyone seems to be busy :(
+Dylan S: Maybe we do tomorrow instead?
+Dylan S: Free today? Like 1800/1900ish?👀
+Dylan S: Chamoooddd
+Cham: Good morning Dylan
+Cham: yes I am 😈
+Cham: Good morning Dylan
+Cham: has anyone ever got Ben a Harry maguire shirt for his birthday?
+Dylan S: I have no idea but I'd assume not 😂😂😂
+Dylan S: Free on Tuesday for Halloween party?
+Cham: yeah
+Cham: what are you planning 👀
+Dylan S: We're going on a trip
+Dylan S: Also today, want to do pres at Jacobs before we go?
+Cham: a trip 👀
+Cham: I'm not in notts tonight 😭
+Dylan S: Indeed
+Dylan S: To Kegworth 😂
+Cham: oh no
+Cham: is this with your cousin again
+Dylan S: Yes XD
+Dylan S: Houseparty
+Cham: who's coming 👀
+Dylan S: Still working on that
+tlin and maybe Jacob
+Dylan S: Back? 👀
+Dylan S: live location shared
+Cham: Good morning Dylan
+Cham: I have your watch 🙈
+Dylan S: Looool
+Dylan S: <Media omitted>
+Dylan S: What time you free today? XD
+Cham: Good morning Dylan
+Cham: me and jas are going to the notts maze
+Cham: so free at like 9?
+Dylan S: Yup good
+Cham: are you going to the party now
+Dylan S: Still in Broadgate XD
+Dylan S: Leaving in 30ishh
+Dylan S: ETA?
+Dylan S: Missed voice call
+Dylan S: Can get an uber with Caitlin if they're close by 👀
+Dylan S: 11 bridgefields. de74 2fw
+Dylan S: Missed voice call
+ Dylan S: <Media omitted>
+ Dylan S: <Media omitted>
+ Cham: Well be there
+ Dylan S: Be well and prosper
+ Cham: were getting a taxi
+ Cham: <Media omitted>
+ Dylan S: I would like to apologise for your hoodie btw
+ Dylan S: Mb😅
+ Dylan S: Any chance of the stains coming out?
+Cham: too far dylan too far 😭
+Cham: nah no worries
+Cham: I get it
+Cham: you just trying to impress gabby 🥰
+Dylan S: Plans for the weekend btw? Thinking of going to a Diwali party with Adi at York House if you're interested 👀
+
+e like
+Cham: yeah he invited me too
+Cham: I'm gonna go 😈
+Cham: did you get home safe Mt darling 🥰
+ Dylan S: Good morning Mr cham
+Cham: Good morning Dylan
+Cham: how are you?
+Dylan S: So incredibly hungover XD
+Dylan S: And still sad about my jacket 😂
+Dylan S: You around at the flat btw? I find myself in town
+Dylan S: I can bring some beers 👀
+Dylan S: Good morning Mr Cham
+Cham: Good morning Mr Dylan
+Dylan S: How'd the interview go! 👀
+Dylan S: The Loxley
+ngham, Nottinghamshire NG1 2EG
+s.co.uk
+ Cham: Good morning Mr Dylan
+ Cham: sorry about last night
+ Cham: the vibe went really bad really quickly and me and jas felt quite awkward sticking around
+ Cham: we hope we didn't ruin your night too much 🥲
+ Dylan S: Npnp, sry it didn't end up being a good night for you guys - what was up? x
+ Dylan S: Nah XD, was a very abrupt goodbye/decision change which might've been annoying to some, idrm lol other than it being kinda odd lol
+ Dylan S: Weren't vibing with the group?
+Dylan S: Free tonight? 👀
+Dylan S: Football today?
+Cham: yeah I'm down
+Cham: what game is it
+Dylan S: Football I believe
+Dylan S: Loxley or Box
+Cham: you are a smart one dylan
+Cham: we're watching sportsball aren't we
+Dylan S: The handcube game XD
+Cham: that sounds wonderful
+Cham: what time 👀
+Dylan S: 15 mins lmao
+Dylan S: Box
+shire NG1 3DR
+/v/6550ca2ad7791929e2a8e7aa
+Cham: oh boy, I'll be straight there 😎
+Dylan S: See you at 2200 :)
+Dylan S: <Media omitted>
+Cham: it wasn't me 🤓
+ Dylan S: null
+ Cham: you silly boy, I'm doing my sky assessment
+ Cham: what's up 👀
+ Dylan S: How'd it go 😂 XD
+Cham: you'd be surprised Dylan
+Cham: I'll be employed any minute now
+Cham: Hows spain
+ Dylan S: Moi amusemente XD
+ Dylan S: Gurt good
+ Dylan S: Fun aha
+ Cham: Good morning Dylan
+ Cham: what are you up to this weekend 👀
+Dylan S: Am off to Austria ahaha
+Dylan S: What had you planned XD
+Cham: wait
+Cham: are you not in beeston
+Cham: me and jas want to day drink 🥰
+Cham: <Media omitted>
+Dylan S: Awwww sad to miss it :(
+Dylan S: Back next Wednesday XD
+ Cham: I'll be waiting for you 😎
+ Cham: How's Austria
+ Dylan S: Colddddd
+ Dylan S: But fun so far XD
+Cham: i hope you freeze to death 🥰
+Cham: do you know ben's address in Manchester btw?
+Dylan S: Nope :(
+Cham: are you back in Notts 👀
+Dylan S: I am XD
+Cham: how very awful
+Cham: are you coming to watch the footy tonight
+Dylan S: Will see will see XD
+Dylan S: Depends how my project meeting goes lol
+Dylan S: Probably though 🤞🏽
+Cham: we'll see you if it goes bad?
+Cham: you'll be fineee Dylan
+Cham: you're a smart guy
+Dylan S: That man is long dead, ruined.
+Cham: surely not, I haven't ruined him yet 😎
+Cham: me and caitlin are meeting at loxely at 8:15 if you wanna join
+Dylan S: I planned to lmao
+Dylan S: Accidentally fell asleep at 1900 😂, just woke up 😂😭
+Dylan S: Mb lmao
+Dylan S: Free tonight? 👀
+Cham: you're a old man now 😭
+Cham: yes I am 👀
+Cham: I was planning to see caitlin in the pub and work with my laptop there
+Dylan S: Loooool
+Dylan S: When? 😂
+Cham: probably like 9?
+Dylan S: No chance I do work at 2100 looool
+Dylan S: Free tomorrow night?
+Cham: oh silly boy
+Cham: that's ur uni stuff right?
+Cham: yeah I got nothing planned 👀
+ Dylan S: Wdym? The work I would be doing? Yhyh XD
+ Dylan S: Calm, know if Caitlin is free? <This message was edited>
+ Cham: I don't think she's free tomorrow
+ Cham: working in the pub
+ Cham: I always imagine you have a silly side hustle going
+ Dylan S: :(
+ Dylan S: Chickens and steaks
+ Cham: your chicken and steaks scam business
+ Cham: sounds about right 😎
+ Cham: what do you wanna do tomorrow 👀
+ Dylan S: Don't mind - any ideas? XD
+ Dylan S: How was last night btw?
+ Cham: very weird
+ Dylan S: How comes lmao
+ Cham: we got haressed by a rich bloke
+ Cham: Good fun tho
+ Dylan S: 😂😂
+ Cham: I reckon we start off by haressing caitlin at her pub
+ Dylan S: Sounds perfect
+ Cham: or we do that at some point in the night
+ Dylan S: What time to meet?
+ Cham: say 8?
+ Dylan S: Sure
+ Dylan S: Be not late XP
+ Cham: I have some work to get done in the afternoon
+ Dylan S: I'll see if Adi is around
+ Cham: tbf, we could start earlier
+ Dylan S: Bottomless 😂😂😂
+ Cham: ohhh you're very silly
+ Cham: I would but only if it'd cheap
+ Dylan S: Nah can do that the following week with all the people XD
+ Dylan S: We could start with beers at ur flat to keep it cheaper?
+ Cham: I have a crate for us to drink 👀
+ Dylan S: Then distress Caitlin
+ Dylan S: Looool
+ Cham: that sounds like a brilliant idea
+ Dylan S: I'll grab some extras on my way XD
+ Cham: however
+ Cham: it's a crate of strongbow
+ Dylan S: Oh how I miss the taste of second year
+ Dylan S: Wait
+ Dylan S: Darkfruit?
+ Cham: I have a bottle of rum too
+ Cham: no :(
+ Dylan S: Or depressed raging alcoholic strongbow
+ Dylan S: Looool I see
+ Cham: original
+ Dylan S: Any coke?
+ Cham: a little bit
+ Dylan S: Cool
+ Cham: I'm gonna get some more
+ Dylan S: Will bring some rum and beers over with me
+ Cham: we can split a crate of beer if you'd like
+ Dylan S: 1800 or is that too early?
+ Dylan S: Sure
+ Cham: like good beer
+ Dylan S: E
+ Dylan S: S
+ Dylan S: T
+ Dylan S: R
+ Dylan S: E
+ Dylan S: L
+ Dylan S: L
+ Dylan S: A
+ Cham: I'm in the mood to day drink again
+ Cham: I reckon 6 is good
+ Cham: I'll make sure to shower before then
+ Dylan S: Wait for me ;)
+ Cham: I'm not sure if you'd enjoy my 2 hr showers
+ Cham: I like to have a lil drink in there tho
+ Dylan S: Put on a show for me
+ Dylan S: Like a peacock XD
+ Cham: absolutely not
+ Cham: I got bo3 installed on my xbox
+ Cham: but we'll see if we're in the mood to play
+ Dylan S: Cool for adi to join btw?
+Cham: yeah yeah ofc
+Cham: I like the guy
+Dylan S: Adi can't make it :(
+Dylan S: I'll be there around 1830ish, will lyk when leaving
+Cham: yeah that's fine
+Cham: you can come later if you'd likr
+Cham: like
+Cham: I only just woke up now lmao
+Cham: when you coming Dylan 👀
+Dylan S: Ah sry
+Dylan S: 1940
+Cham: yeah no worries
+Cham: I'm still cleaning up my room lol
+Dylan S: This message was deleted
+Dylan S: <Media omitted>
+Dylan S: <Media omitted>
+Dylan S: This message was deleted
+Dylan S: null
+Dylan S: 👀
+Dylan S: Pub 1900?
+Cham: Good morning Dylan
+Cham: I just woke up
+Cham: oh I don't feel so good
+Dylan S: Good morning Mr chamod
+Dylan S: We cooked XD
+Dylan S: 'there is a spider'
+Cham: did we make a baby
+Dylan S: 'it's deep in my soul'
+Dylan S: We tried.
+Dylan S: Go shower XD
+Dylan S: There's a hangover cure waitingg🌈
+Cham: Let’s listen and choose the music together in real time.
+
+sBwrGGIoFb
+ Dylan S: 3 Allen field court NG7 1LH at about 10 tonight
+Cham: Let’s listen and choose the music together in real time.
+
+hXXBsacpFb
+Dylan S: (Chase Debit)
+
+
+48
+
+Cham: Good morning Dylan
+Cham: How's the hangovee
+Cham: hangover
+Dylan S: Good morning Mr chamod XD
+Dylan S: Unpleasant 😂😂
+Dylan S: Am on a date💀
+Dylan S: Dead inside XD
+Cham: hahaha
+Cham: oh shit I forgot you had a date
+Cham: God you must be feeling awful
+Cham: Good morning dylan
+Cham: what are we doing for Wednesday's dinner btw
+Dylan S: Good morning
+Dylan S: Invite everyone for 2000 XD
+Dylan S: From 1800 we can go on a shop with Jacobs car aha
+Dylan S: Sound good?
+Cham: yeah sounds good
+Cham: are we still getting a turkey?
+ Dylan S: I think so aha
+ Dylan S: See what the ready made aisle has to offer lol
+Dylan S: Did we ask the other flat about Christmas dinner tomorrow btw?
+ Cham: sounds good to me 😎
+ Cham: yeah I did
+ Cham: I think one of them might come
+ Dylan S: Want to come on the shopping trip around 1800? XD
+Dylan S: Is jaz coming btw? (Working out food order XD)
+Cham: yes please 😎
+Cham: yeah she is
+Cham: she's at the flat now, she's preparing a dessert thing for us
+Dylan S: Ooooo Very nice
+Dylan S: https://maps.app.goo.gl/LFFkTTGFw5gmLNvr6
+
+t 1800
+Dylan S: We'll bring it over to the alchemist
+Dylan S: And unload over to the flat
+Cham: sounds good, I'll see you there 😎
+Dylan S: Sainsbury's or in town? XD
+Cham: in the sainsburys
+Dylan S: Awesome lol
+Cham: I'm just cleaning up the flat and then I'm gonna head over
+Dylan S: I'm 14 off
+Cham: I'm probably 30 mins off
+Dylan S: Cool
+Cham: the neighbours aren't coming 😡
+Dylan S: Lmaoo
+Cham: do we need any spirits or mixer
+Cham: I'm off the bus now but I can still pick some stuff up
+Dylan S: What's your address again
+Cham: 2 oriel Chambers
+Cham: NG1 2DP
+Dylan S: null
+Dylan S: Good morning Mr chamod
+Dylan S: Fancy going to the pub abit later?
+Dylan S: Also could you ask Jas to send over £17 when she gets a chance XD
+Dylan S: Don't have her number
+Dylan S: (Chase Debit)
+
+
+48
+
+Dylan S: dylanshah203@gmail.com
+
+
+Cham: Good morning Dylan
+Cham: yes I do 😎
+Cham: I'm still hanging out my arse tho
+Dylan S: 1900ish?
+Dylan S: Same lmaoo
+Cham: yeah I got a lot of cleaning up to do lmao
+Dylan S: Ah sorry about that😂😂
+Dylan S: We left the place in such a state lmao
+Dylan S: Thank god you have a dishwasher xd
+Cham: don't call my gf a dishwasher 😡
+Cham: I am the dishwasher 🥰
+Dylan S: ❤️
+Cham: I'm still doing some work
+Cham: can I come see you at like 8?
+Dylan S: Yhyh sounds good XD
+Dylan S: Oo ayling free tonight?
+Dylan S: Angel Microbrewery
+ngham, Nottinghamshire NG1 1LG
+/v/58f4ada7da5e5616077919b8
+Cham: unfortunately not
+Cham: beautiful, ill be there in 10
+Dylan S: Sry, didn't see 😭
+Dylan S: Am heading to Rudy's now XD
+Dylan S: 6 mins off
+Cham: beautiful
+Cham: what's rudys
+Dylan S: Pizza XD
+Dylan S: It's such a nice day lol
+Dylan S: Shame I've missed it 😂
+Dylan S: *pizza punks
+Dylan S: *near fat hippo
+Cham: I've still ate and I'm not quite hungry
+Cham: I'll join you in the next pub or bar?
+Dylan S: We're at a coffee shop for morning coffee
+Dylan S: I've eaten XD
+Dylan S: Heading to a pub after
+ Dylan S: null
+Dylan S: Gonna make it? 👀
+Cham: I don't think so :(
+Cham: might have to see you after the cinema
+Dylan S: Npnp aha
+Cham: Good morning Dylan
+Cham: How's the date?
+Dylan S: All done XD, all back at Caitlin's bar lol
+Dylan S: Film over? 👀
+ Cham: Good morning Dylan
+ Cham: for your new years party, is it alright if me and jas stay over at yours?
+ Cham: if there's space
+ Dylan S: Good evening Mr Cham
+ Dylan S: Yhyh no worries
+ Dylan S: I cannot promise comfort but I can promise space XD
+ Dylan S: <Media omitted>
+Dylan S: Helloo
+Dylan S: So address is
+Dylan S: https://maps.app.goo.gl/TKzXtwwAayzMoZKD8
+Dylan S: But if you're on public transport you can tube over to Chorleywood and can pick you up (or can walk/Uber worst case)
+Dylan S: Aim for 1850 and we can probably do a group pickup
+
+
+Cham: Good morning Dylan
+Cham: we're hoping to get a ride from hannah and caitlin so we don't have to buy train tickets
+Cham: but we'll do this if we can't get a ride
+Cham: who else is coming 👀
+Dylan S: Ooo which day are they thinking of coming lmao
+Dylan S: Haven't heard much from them
+Cham: on the 31st
+Cham: I spoke to caitlin and it seems like she's coming
+Dylan S: <Media omitted>
+Dylan S: Oh lmao
+Dylan S: She didn't tell me 😂😂😂
+Dylan S: But calm
+Dylan S: Lmk XD
+Cham: ooooh very nice
+Cham: do we need to bring anything
+Cham: I'm guessing there won't be many beds to sleep in
+Dylan S: There's enough for 6-8 in beds + more on thick carpet XD
+Dylan S: Maybe an air mattress or something
+Dylan S: And some are going home on the same day acc
+Dylan S: So shouldd be fine
+Cham: oh okay
+Cham: I have a sleeping bag I could bring
+Cham: worse case scenario, me and jas are gonna camp in your living room
+Dylan S: And more sofa space if req
+Dylan S: Yhyh loads of room XD
+Dylan S: Bring it XD
+Cham: I got bad news mr Dylan, I can't get a ride from caitlin and hannah and the train tickets are quite speny 😭
+Dylan S: Loooool
+Dylan S: Last minute prices XP
+Dylan S: Big sad :(
+Dylan S: Oo you could always coach to Victoria
+Cham: did you invite ope btw
+Dylan S: Have done that before, not too bad
+Cham: maybe he can drive us 🥰
+Dylan S: He is spending it with parents I believe XD
+Cham: ah silly him
+Cham: had a look at coach tickets too, it's £40 both way
+Dylan S: Yikes lmaoo
+Cham: but the problem is I'm also in liverpool atm lol
+Dylan S: 😂
+Dylan S: Cool cool nws XD, will catch up when I'm back around aha
+Cham: I'm getting the train back to Notts tomorrow and then I was hoping to get ride from caitlin to london or train
+Dylan S: Are they thinking about coming later in the week btw or probably not?
+Cham: I'm not sure
+Cham: when I messaged caitlin, she said she's spent too much money on Christmas
+Dylan S: Trains from Notts are £42 return with Railcard btw - is that what you found too?
+Dylan S: <Media omitted>
+Cham: nah mine were £60
+Cham: with a railcard
+Cham: don't I have to go to Chorleywood station
+Dylan S: Nono
+Dylan S: From London it's tube
+Dylan S: So will be £5 max
+Dylan S: Don't buy a prepaid ticket past London
+Dylan S: Ur also welcome to stay an extra day or two if it helps XD
+Dylan S: Up to the 4th
+Cham: unfortunately I got myself work on the 2nd so I have be in notts 😭
+Cham: I'm quite sorry Mr Dylan, I'll have to see you in the new year
+Dylan S: Oooo where at? XD
+Dylan S: Happy new year ;)
+ Cham: HAPPY NEW YEAR DYLAN
+ Cham: here's hoping to a worse even 2024
+Dylan S: Yh qppy new years chamofs
+ Cham: New year, new us
+ Cham: New drinks to drink
+ Cham: when are you back in Notts 👀
+ Dylan S: Probably next Sunday but have exams until the 26th :(
+ Dylan S: Big night out on the 27th though? Birthday XD
+ Dylan S: How's the last few weeks been? XD
+Cham: oh dylan
+Cham: they're been absolutely awful
+Cham: I think I need a drink 😈
+Dylan S: Free tomorrow for pub? XD
+Dylan S: Probably can't make it to the usual 0500 lmao
+Dylan S: But am down for a couple
+Dylan S: Could meet in the afternoon if you're free?
+Cham: tut tut tut no drinking for you Dylan
+Cham: you got exams 😈
+Cham: nah no meetings for me tomorrow, I got bloody meetings :(
+Dylan S: :(
+Dylan S: Ah nws XD
+Dylan S: Maybe Saturday/Sunday if you're free👀
+Cham: unfortunately not tomorrow, its jasmeen's birthday 😈
+ Dylan S: Oooo have fun XD
+ Dylan S: Going anywhere special? 👀
+Cham: going to the alchemist
+Cham: I planned a treasure hunt for her around the city too today
+Cham: I'm the world's best boyfriend
+Dylan S: Oooooo
+Dylan S: Awesome XD
+Dylan S: Would you be up for doing a bottomless brunch on the 27th? 🎉 👀
+
+as? Lmk and I can book XD <This message was edited>
+Cham: oh Dylan
+Cham: we're doing whatever you want
+ Dylan S: It's Dyl Day
+adass video and ride a Lime Scooter into a Tram to bring ourselves closer to RNGesus ❤️
+ Cham: we can't end your birthday before we destroy a tram
+Cham: who you thinking of inviting? 👀
+Dylan S: Jacob joining later in the day, 
+
+atm, will know by Thursday
+
+
+
+
+Dylan S: Will shoot ope a message too acc
+ Cham: ooooh very nice
+ Cham: I'm excited
+ Cham: when we starting
+ Dylan S: *acc going to Huddl now, Iguanas didn't have space lol, this place is cheaper anyways XD (think they're doing 25% off through Jan🥳)
+be late XP
+Cham: late? me?
+Cham: never 😎
+Cham: I'm down for huddl
+Cham: what are you doing tonight 👀
+Dylan S: Pub!
+Dylan S: Free to come to pub? XD
+Dylan S: null
+Dylan S: Mr chammm
+Dylan S: Still at Tap House XD
+Dylan S: null
+Cham: null
+Dylan S: Herbert Kilpin
+ingham, Nottinghamshire NG1
+o.uk
+Dylan S: Upstairs
+Cham: Good morning Mr Dylan
+Cham: you still wanna go laser tag on Saturday?
+Dylan S: Oh I thought it was Sunday?
+Cham: oh, I thought we still doing Saturday
+Cham: tbh I think we did agree on this
+Cham: I don't remember that much from last night
+Dylan S: Lmao me neither
+Dylan S: Apparently I'm going to Parklife 😂😂
+Dylan S: Won't we fall over after bottomless? XD
+Cham: exactly why we're doing it 😈
+Cham: also, I'm drinking with jas and her mates
+Cham: what are you up to tonight
+Dylan S: Am just at home for tonight XD
+Dylan S: Would join if it wasn't such a trek into town 😂
+Dylan S: Tomorrow may be the first bottomless I turn up to not hungover ahaha
+ Cham: yeah that's fine
+ Cham: not for me 😈
+Dylan S: Omw over to Hudl
+Dylan S: Oh Jas is welcome to come too btw
+Dylan S: Forgot to say earlier
+Dylan S: Fancy going to the pub Mr Cham?
+Cham: Good morning Mr Dylan
+Cham: unfortunately I have to go see jas tonight, she's quite angry with me 😭
+Dylan S: Lmao what's happened 😂😂
+Dylan S: Will be heading to Caitlin's pub tomorrow around 1800 though if u want to join
+Dylan S: She's free from 1030ish
+Cham: haven't left yet, waiting for my laptop to charge 😭
