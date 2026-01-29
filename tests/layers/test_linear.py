@@ -24,7 +24,7 @@ def test_linear_forward_with_bias():
     
     # Copy weights from official to yours (note: nn.Linear uses transposed weights)
     with t.no_grad():
-        yours.W.copy_(official.weight.T)
+        yours.weight.copy_(official.weight.T)
         yours.bias.copy_(official.bias)
     
     actual = yours(x)
@@ -40,7 +40,7 @@ def test_linear_forward_no_bias():
     
     # Copy weights from official to yours
     with t.no_grad():
-        yours.W.copy_(official.weight.T)
+        yours.weight.copy_(official.weight.T)
     
     actual = yours(x)
     expected = official(x)
@@ -56,7 +56,7 @@ def test_linear_parameters_with_bias():
     assert len(params) == 2, f"Expected 2 parameters (W and bias), got {len(params)}"
     
     # Check shapes
-    assert layer.W.shape == (2, 3), f"Expected weight shape (2, 3), got {layer.W.shape}"
+    assert layer.weight.shape == (2, 3), f"Expected weight shape (2, 3), got {layer.weight.shape}"
     assert layer.bias.shape == (3,), f"Expected bias shape (3,), got {layer.bias.shape}"
     
     # Check stored attributes
@@ -76,7 +76,7 @@ def test_linear_parameters_no_bias():
     assert layer.bias is None, "Bias should be None when not enabled."
     
     # Check weight shape
-    assert layer.W.shape == (2, 3), f"Expected weight shape (2, 3), got {layer.W.shape}"
+    assert layer.weight.shape == (2, 3), f"Expected weight shape (2, 3), got {layer.weight.shape}"
 
 
 def test_linear_no_bias_forward():
@@ -88,7 +88,7 @@ def test_linear_no_bias_forward():
     assert len(list(layer.parameters())) == 1, "Should have exactly 1 parameter (weight only)"
     
     # Manual computation check
-    expected = x @ layer.W
+    expected = x @ layer.weight
     actual = layer(x)
     t.testing.assert_close(actual, expected)
 
@@ -116,7 +116,7 @@ def test_linear_gradients():
     loss.backward()
     
     assert x.grad is not None, "Input should have gradients"
-    assert layer.W.grad is not None, "Weight should have gradients"
+    assert layer.weight.grad is not None, "Weight should have gradients"
     assert layer.bias.grad is not None, "Bias should have gradients"
 
 

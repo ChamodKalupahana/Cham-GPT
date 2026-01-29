@@ -21,7 +21,7 @@ class Linear(nn.Module):
         self._use_bias = bias
 
         weights = t.randn(in_feats, out_feats)
-        self.W = nn.Parameter(weights, requires_grad=True)
+        self.weight = nn.Parameter(weights, requires_grad=True)
 
         if bias:
             bias_shape = t.randn(out_feats)
@@ -31,7 +31,7 @@ class Linear(nn.Module):
         return
 
     def forward(self, input : Tensor) -> Tensor:
-        output = input @ self.W
+        output = input @ self.weight
         if self.bias is not None:
             output += self.bias
         return output
