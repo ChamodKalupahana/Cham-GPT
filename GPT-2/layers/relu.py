@@ -9,7 +9,7 @@ device = t.device(
 
 class ReLU(nn.Module):
     def __init__(self):
-        super.__init__()
+        super().__init__()
 
     def forward(self, input : Tensor) -> Tensor:
-        return t.maximum(input, 0.0)
+        return t.maximum(input, t.zeros_like(input))
