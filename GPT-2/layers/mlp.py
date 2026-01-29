@@ -1,10 +1,21 @@
 import torch as t
 import torch.nn as nn
+import importlib.util
+from pathlib import Path
 
 from torch import Tensor
 
-from linear import Linear
-from relu import ReLU
+# Load Linear and ReLU from same directory
+_dir = Path(__file__).parent
+_linear_spec = importlib.util.spec_from_file_location("linear", _dir / "linear.py")
+_linear_module = importlib.util.module_from_spec(_linear_spec)
+_linear_spec.loader.exec_module(_linear_module)
+Linear = _linear_module.Linear
+
+_relu_spec = importlib.util.spec_from_file_location("relu", _dir / "relu.py")
+_relu_module = importlib.util.module_from_spec(_relu_spec)
+_relu_spec.loader.exec_module(_relu_module)
+ReLU = _relu_module.ReLU
 
 device = t.device(
     "mps" if t.backends.mps.is_available() else "cuda" if t.cuda.is_available() else "cpu"
