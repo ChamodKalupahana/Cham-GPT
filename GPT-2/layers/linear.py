@@ -1,0 +1,38 @@
+import torch as t
+import torch.nn as nn
+
+from torch import Tensor
+
+device = t.device(
+    "mps" if t.backends.mps.is_available() else "cuda" if t.cuda.is_available() else "cpu"
+)
+
+class Linear(nn.Module):
+    """
+    https://docs.pytorch.org/docs/stable/generated/torch.nn.Linear.html
+    Applies an affine linear transformation to the incoming data: 
+    y = xA.T + b
+.
+    """
+    def __init__(self, in_feats : int, out_feats : int, bias : bool = True):
+        super().__init__()
+        weights = t.randn(in_feats, out_feats)
+        self.W = nn.Parameter(weights, requires_grad=True)
+
+        bias_shape = t.randn(out_feats)
+        self.bias = nn.Parameter(bias_shape, requires_grad=bias)
+        return
+
+    def forward(self, input : Tensor) -> Tensor:
+        output = input @ self.W + self.bias
+        return output
+
+
+if __name__ == "__main__":
+    in_feats = 100
+    out_feats = 20
+
+    input = t.rand(60, in_feats)
+    linear = Linear(in_feats, out_feats)
+    output = linear(input)
+    print(output)
