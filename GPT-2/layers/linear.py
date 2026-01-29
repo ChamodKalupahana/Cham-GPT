@@ -36,6 +36,9 @@ class Linear(nn.Module):
             output += self.bias
         return output
 
+    def extra_repr(self) -> str:
+        return f"in_feats={in_feats}, out_feats={out_feats}"
+
 
 if __name__ == "__main__":
     in_feats = 100
@@ -43,5 +46,8 @@ if __name__ == "__main__":
 
     input = t.rand(60, in_feats)
     linear = Linear(in_feats, out_feats)
+    print(linear)
+
     output = linear(input)
+    
     print(output)
