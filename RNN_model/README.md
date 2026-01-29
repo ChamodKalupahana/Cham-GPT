@@ -1,4 +1,4 @@
-# Cham-GPT
+# Cham-GPT (Early 2024)
 LLM Chatbot for talking to a AI version of me
 
 ## Introduction
