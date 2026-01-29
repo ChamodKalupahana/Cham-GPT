@@ -1,17 +1,21 @@
 import torch
 import torch.nn as nn
 
-model_cfg = Config(
-    debug=False,
-    d_model=32,
-    n_heads=16,
-    d_head=2,
-    d_mlp=32 * 4,
-    n_layers=4, # oddly not 12
-    n_ctx=128,
-    d_vocab=1000 # TODO: define true vocab size,
-)
+@dataclass
+class Config:
+    d_model: int = 768
+    debug: bool = True
+    layer_norm_eps: float = 1e-5
+    d_vocab: int = 50257
+    init_range: float = 0.02
+    n_ctx: int = 1024
+    d_head: int = 64
+    d_mlp: int = 3072
+    n_heads: int = 12
+    n_layers: int = 12
 
+cfg = Config()
+print(cfg)
 
 class GPT_2_Small(nn.Module):
     def __init__(self, cfg):
