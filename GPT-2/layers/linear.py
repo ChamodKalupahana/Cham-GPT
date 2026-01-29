@@ -16,15 +16,24 @@ class Linear(nn.Module):
     """
     def __init__(self, in_feats : int, out_feats : int, bias : bool = True):
         super().__init__()
+        self.in_feats = in_feats
+        self.out_feats = out_feats
+        self._use_bias = bias
+
         weights = t.randn(in_feats, out_feats)
         self.W = nn.Parameter(weights, requires_grad=True)
 
-        bias_shape = t.randn(out_feats)
-        self.bias = nn.Parameter(bias_shape, requires_grad=bias)
+        if bias:
+            bias_shape = t.randn(out_feats)
+            self.bias = nn.Parameter(bias_shape, requires_grad=True)
+        else:
+            self.bias = None
         return
 
     def forward(self, input : Tensor) -> Tensor:
-        output = input @ self.W + self.bias
+        output = input @ self.W
+        if self.bias is not None:
+            output += self.bias
         return output
 
 
