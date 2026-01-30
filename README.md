@@ -1,17 +1,18 @@
 # Cham-GPT
-LLM Chatbot for talking to a AI version of me
 
-## Introduction
+This is the revial of the project I started a couple of years ago where I tried to build a chatbot of myself but didn't know enough about transformers so I built an RNN which is in `RRN-model/`. Now after doing ARBOx, I do know enough know transformers to build them from stratch! I'm taking this project on as a challenge, writing as much of the code myself with as little guidance as possible so that I'll be prepared when I have to replicate a much more novel model in the future.
 
-Cham-GPT is a LLM Chatbot for talking to a AI version of me. It is character-based and trained on small batches of text. While some of the sentences it generates are grammatical, most do not make sense, as the model does not learn the meaning of words. However, it can produce coherent structures resembling a conversation, with blocks of text generally beginning with my name.
+Plan:
+- Build GPT-2 from stratch
+- Base Cham-GPT on GPT-2 arch and train on my own data
+- Interpret Cham-GPT, ideally for a direction of "Cham-ness"
+- Deploy publicly on HuggingFace
 
-This is an ongoing project that I hope to slowly build over time into a chatbot running on the cloud so that anyone can access it through a web server.
 
 ## Setup
 
-### Import TensorFlow and other libraries
-
 ```python
-import tensorflow as tf
-import tensorflow_datasets as tfds
-import numpy as np
+conda create -n cham-gpt python=3.11 -y
+conda activate cham-gpt
+pip install -r requirement.txt
+```
