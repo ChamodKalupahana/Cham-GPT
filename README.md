@@ -8,6 +8,7 @@ Plan:
 - Base Cham-GPT on GPT-2 arch and train on my own data
 - Interpret Cham-GPT, ideally for a direction of "Cham-ness"
 - Deploy publicly on HuggingFace
+- Host and allow public to inference the model at [chamgpt.net](https://chamgpt.net/)
 
 
 ## Setup
